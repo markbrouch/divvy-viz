@@ -1,0 +1,4284 @@
+{
+  "stations": [
+    {
+      "id": 456,
+      "name": "2112 W Peterson Ave",
+      "latitude": 41.991178,
+      "longitude": -87.683593,
+      "dpcapacity": 15,
+      "online_date": "5/12/15"
+    },
+    {
+      "id": 101,
+      "name": "63rd St Beach",
+      "latitude": 41.781016,
+      "longitude": -87.57612,
+      "dpcapacity": 23,
+      "online_date": "4/20/15"
+    },
+    {
+      "id": 109,
+      "name": "900 W Harrison St",
+      "latitude": 41.874675,
+      "longitude": -87.650019,
+      "dpcapacity": 19,
+      "online_date": "8/6/13"
+    },
+    {
+      "id": 21,
+      "name": "Aberdeen St & Jackson Blvd",
+      "latitude": 41.877726,
+      "longitude": -87.654787,
+      "dpcapacity": 15,
+      "online_date": "6/21/13"
+    },
+    {
+      "id": 80,
+      "name": "Aberdeen St & Monroe St",
+      "latitude": 41.880456,
+      "longitude": -87.653929,
+      "dpcapacity": 19,
+      "online_date": "6/26/13"
+    },
+    {
+      "id": 346,
+      "name": "Ada St & Washington Blvd",
+      "latitude": 41.88283,
+      "longitude": -87.661206,
+      "dpcapacity": 15,
+      "online_date": "10/10/13"
+    },
+    {
+      "id": 341,
+      "name": "Adler Planetarium",
+      "latitude": 41.866095,
+      "longitude": -87.607267,
+      "dpcapacity": 19,
+      "online_date": "10/9/13"
+    },
+    {
+      "id": 444,
+      "name": "Albany Ave & 26th St",
+      "latitude": 41.844475,
+      "longitude": -87.702013,
+      "dpcapacity": 19,
+      "online_date": "4/29/15"
+    },
+    {
+      "id": 511,
+      "name": "Albany Ave & Bloomingdale Ave",
+      "latitude": 41.914027,
+      "longitude": -87.705126,
+      "dpcapacity": 15,
+      "online_date": "5/9/15"
+    },
+    {
+      "id": 376,
+      "name": "Artesian Ave & Hubbard St",
+      "latitude": 41.889492,
+      "longitude": -87.688219,
+      "dpcapacity": 35,
+      "online_date": "4/27/15"
+    },
+    {
+      "id": 275,
+      "name": "Ashland Ave & 13th St",
+      "latitude": 41.865234,
+      "longitude": -87.666507,
+      "dpcapacity": 15,
+      "online_date": "9/12/13"
+    },
+    {
+      "id": 208,
+      "name": "Ashland Ave & 21st St",
+      "latitude": 41.85381,
+      "longitude": -87.665897,
+      "dpcapacity": 15,
+      "online_date": "8/15/13"
+    },
+    {
+      "id": 555,
+      "name": "Ashland Ave & 50th St",
+      "latitude": 41.803023,
+      "longitude": -87.664699,
+      "dpcapacity": 11,
+      "online_date": "6/17/16"
+    },
+    {
+      "id": 563,
+      "name": "Ashland Ave & 63rd St",
+      "latitude": 41.779374,
+      "longitude": -87.664843,
+      "dpcapacity": 15,
+      "online_date": "6/20/16"
+    },
+    {
+      "id": 565,
+      "name": "Ashland Ave & 66th St",
+      "latitude": 41.774074,
+      "longitude": -87.663815,
+      "dpcapacity": 11,
+      "online_date": "6/21/16"
+    },
+    {
+      "id": 566,
+      "name": "Ashland Ave & 69th St",
+      "latitude": 41.768726,
+      "longitude": -87.664069,
+      "dpcapacity": 11,
+      "online_date": "6/23/16"
+    },
+    {
+      "id": 368,
+      "name": "Ashland Ave & Archer Ave",
+      "latitude": 41.839209,
+      "longitude": -87.66561,
+      "dpcapacity": 19,
+      "online_date": "4/13/15"
+    },
+    {
+      "id": 30,
+      "name": "Ashland Ave & Augusta Blvd",
+      "latitude": 41.899643,
+      "longitude": -87.6677,
+      "dpcapacity": 15,
+      "online_date": "6/22/13"
+    },
+    {
+      "id": 246,
+      "name": "Ashland Ave & Belle Plaine Ave",
+      "latitude": 41.956061,
+      "longitude": -87.668869,
+      "dpcapacity": 11,
+      "online_date": "8/26/13"
+    },
+    {
+      "id": 333,
+      "name": "Ashland Ave & Blackhawk St",
+      "latitude": 41.907066,
+      "longitude": -87.667252,
+      "dpcapacity": 15,
+      "online_date": "9/27/13"
+    },
+    {
+      "id": 350,
+      "name": "Ashland Ave & Chicago Ave",
+      "latitude": 41.895966,
+      "longitude": -87.667747,
+      "dpcapacity": 15,
+      "online_date": "10/22/13"
+    },
+    {
+      "id": 210,
+      "name": "Ashland Ave & Division St",
+      "latitude": 41.90345,
+      "longitude": -87.667747,
+      "dpcapacity": 19,
+      "online_date": "8/16/13"
+    },
+    {
+      "id": 558,
+      "name": "Ashland Ave & Garfield Blvd",
+      "latitude": 41.792822,
+      "longitude": -87.664429,
+      "dpcapacity": 11,
+      "online_date": "6/20/16"
+    },
+    {
+      "id": 347,
+      "name": "Ashland Ave & Grace St",
+      "latitude": 41.950687,
+      "longitude": -87.6687,
+      "dpcapacity": 15,
+      "online_date": "10/12/13"
+    },
+    {
+      "id": 277,
+      "name": "Ashland Ave & Grand Ave",
+      "latitude": 41.891072,
+      "longitude": -87.666611,
+      "dpcapacity": 15,
+      "online_date": "9/12/13"
+    },
+    {
+      "id": 383,
+      "name": "Ashland Ave & Harrison St",
+      "latitude": 41.874291,
+      "longitude": -87.667246,
+      "dpcapacity": 23,
+      "online_date": "4/27/15"
+    },
+    {
+      "id": 119,
+      "name": "Ashland Ave & Lake St",
+      "latitude": 41.88541,
+      "longitude": -87.66732,
+      "dpcapacity": 19,
+      "online_date": "7/28/13"
+    },
+    {
+      "id": 552,
+      "name": "Ashland Ave & McDowell Ave",
+      "latitude": 41.80887,
+      "longitude": -87.66454,
+      "dpcapacity": 11,
+      "online_date": "6/17/16"
+    },
+    {
+      "id": 547,
+      "name": "Ashland Ave & Pershing Rd",
+      "latitude": 41.823465,
+      "longitude": -87.665577,
+      "dpcapacity": 11,
+      "online_date": "6/16/16"
+    },
+    {
+      "id": 250,
+      "name": "Ashland Ave & Wellington Ave",
+      "latitude": 41.936083,
+      "longitude": -87.669807,
+      "dpcapacity": 19,
+      "online_date": "8/26/13"
+    },
+    {
+      "id": 166,
+      "name": "Ashland Ave & Wrightwood Ave",
+      "latitude": 41.92883,
+      "longitude": -87.668507,
+      "dpcapacity": 15,
+      "online_date": "7/25/13"
+    },
+    {
+      "id": 532,
+      "name": "Austin Blvd & Lake St",
+      "latitude": 41.887919,
+      "longitude": -87.774446,
+      "dpcapacity": 15,
+      "online_date": "6/10/16"
+    },
+    {
+      "id": 496,
+      "name": "Avers Ave & Belmont Ave",
+      "latitude": 41.939448,
+      "longitude": -87.723554,
+      "dpcapacity": 19,
+      "online_date": "5/13/15"
+    },
+    {
+      "id": 113,
+      "name": "Bissell St & Armitage Ave",
+      "latitude": 41.91844,
+      "longitude": -87.65222,
+      "dpcapacity": 15,
+      "online_date": "9/5/13"
+    },
+    {
+      "id": 121,
+      "name": "Blackstone Ave & Hyde Park Blvd",
+      "latitude": 41.802562,
+      "longitude": -87.590368,
+      "dpcapacity": 19,
+      "online_date": "8/28/13"
+    },
+    {
+      "id": 129,
+      "name": "Blue Island Ave & 18th St",
+      "latitude": 41.857556,
+      "longitude": -87.661535,
+      "dpcapacity": 15,
+      "online_date": "7/25/13"
+    },
+    {
+      "id": 295,
+      "name": "Broadway & Argyle St",
+      "latitude": 41.972972,
+      "longitude": -87.659637,
+      "dpcapacity": 15,
+      "online_date": "9/18/13"
+    },
+    {
+      "id": 300,
+      "name": "Broadway & Barry Ave",
+      "latitude": 41.937725,
+      "longitude": -87.644095,
+      "dpcapacity": 19,
+      "online_date": "9/19/13"
+    },
+    {
+      "id": 296,
+      "name": "Broadway & Belmont Ave",
+      "latitude": 41.940106,
+      "longitude": -87.645451,
+      "dpcapacity": 15,
+      "online_date": "9/18/13"
+    },
+    {
+      "id": 294,
+      "name": "Broadway & Berwyn Ave",
+      "latitude": 41.978353,
+      "longitude": -87.659753,
+      "dpcapacity": 15,
+      "online_date": "9/18/13"
+    },
+    {
+      "id": 303,
+      "name": "Broadway & Cornelia Ave",
+      "latitude": 41.945512,
+      "longitude": -87.64598,
+      "dpcapacity": 15,
+      "online_date": "9/19/13"
+    },
+    {
+      "id": 454,
+      "name": "Broadway & Granville Ave",
+      "latitude": 41.99478,
+      "longitude": -87.660285,
+      "dpcapacity": 15,
+      "online_date": "5/11/15"
+    },
+    {
+      "id": 461,
+      "name": "Broadway & Ridge Ave",
+      "latitude": 41.984045,
+      "longitude": -87.660274,
+      "dpcapacity": 15,
+      "online_date": "5/11/15"
+    },
+    {
+      "id": 256,
+      "name": "Broadway & Sheridan Rd",
+      "latitude": 41.952833,
+      "longitude": -87.649993,
+      "dpcapacity": 15,
+      "online_date": "9/5/13"
+    },
+    {
+      "id": 458,
+      "name": "Broadway & Thorndale Ave",
+      "latitude": 41.989743,
+      "longitude": -87.660141,
+      "dpcapacity": 19,
+      "online_date": "5/11/15"
+    },
+    {
+      "id": 304,
+      "name": "Broadway & Waveland Ave",
+      "latitude": 41.949546,
+      "longitude": -87.648674,
+      "dpcapacity": 15,
+      "online_date": "9/19/13"
+    },
+    {
+      "id": 293,
+      "name": "Broadway & Wilson Ave",
+      "latitude": 41.965485,
+      "longitude": -87.657238,
+      "dpcapacity": 19,
+      "online_date": "9/18/13"
+    },
+    {
+      "id": 2,
+      "name": "Buckingham Fountain",
+      "latitude": 41.872667,
+      "longitude": -87.623971,
+      "dpcapacity": 35,
+      "online_date": "5/8/15"
+    },
+    {
+      "id": 468,
+      "name": "Budlong Woods Library",
+      "latitude": 41.983665,
+      "longitude": -87.696423,
+      "dpcapacity": 15,
+      "online_date": "5/6/15"
+    },
+    {
+      "id": 4,
+      "name": "Burnham Harbor",
+      "latitude": 41.856268,
+      "longitude": -87.613348,
+      "dpcapacity": 23,
+      "online_date": "5/16/15"
+    },
+    {
+      "id": 348,
+      "name": "California Ave & 21st St",
+      "latitude": 41.854016,
+      "longitude": -87.695445,
+      "dpcapacity": 15,
+      "online_date": "10/14/13"
+    },
+    {
+      "id": 442,
+      "name": "California Ave & 23rd Pl",
+      "latitude": 41.84911,
+      "longitude": -87.69514,
+      "dpcapacity": 15,
+      "online_date": "4/28/15"
+    },
+    {
+      "id": 445,
+      "name": "California Ave & 26th St",
+      "latitude": 41.84404,
+      "longitude": -87.695296,
+      "dpcapacity": 19,
+      "online_date": "4/29/15"
+    },
+    {
+      "id": 502,
+      "name": "California Ave & Altgeld St",
+      "latitude": 41.926618,
+      "longitude": -87.697899,
+      "dpcapacity": 19,
+      "online_date": "5/13/15"
+    },
+    {
+      "id": 487,
+      "name": "California Ave & Byron St",
+      "latitude": 41.952162,
+      "longitude": -87.698051,
+      "dpcapacity": 19,
+      "online_date": "7/7/15"
+    },
+    {
+      "id": 216,
+      "name": "California Ave & Division St",
+      "latitude": 41.903029,
+      "longitude": -87.697474,
+      "dpcapacity": 15,
+      "online_date": "8/16/13"
+    },
+    {
+      "id": 498,
+      "name": "California Ave & Fletcher St",
+      "latitude": 41.938429,
+      "longitude": -87.698008,
+      "dpcapacity": 19,
+      "online_date": "5/4/15"
+    },
+    {
+      "id": 259,
+      "name": "California Ave & Francis Pl",
+      "latitude": 41.918121,
+      "longitude": -87.696972,
+      "dpcapacity": 15,
+      "online_date": "9/12/13"
+    },
+    {
+      "id": 378,
+      "name": "California Ave & Lake St",
+      "latitude": 41.884454,
+      "longitude": -87.696298,
+      "dpcapacity": 15,
+      "online_date": "4/27/15"
+    },
+    {
+      "id": 123,
+      "name": "California Ave & Milwaukee Ave",
+      "latitude": 41.922695,
+      "longitude": -87.697153,
+      "dpcapacity": 15,
+      "online_date": "7/26/13"
+    },
+    {
+      "id": 481,
+      "name": "California Ave & Montrose Ave",
+      "latitude": 41.961068,
+      "longitude": -87.695439,
+      "dpcapacity": 15,
+      "online_date": "7/7/15"
+    },
+    {
+      "id": 276,
+      "name": "California Ave & North Ave",
+      "latitude": 41.91044,
+      "longitude": -87.6972,
+      "dpcapacity": 11,
+      "online_date": "9/12/13"
+    },
+    {
+      "id": 338,
+      "name": "Calumet Ave & 18th St",
+      "latitude": 41.857611,
+      "longitude": -87.619407,
+      "dpcapacity": 15,
+      "online_date": "9/28/13"
+    },
+    {
+      "id": 370,
+      "name": "Calumet Ave & 21st St",
+      "latitude": 41.854184,
+      "longitude": -87.619154,
+      "dpcapacity": 15,
+      "online_date": "5/1/15"
+    },
+    {
+      "id": 149,
+      "name": "Calumet Ave & 33rd St",
+      "latitude": 41.8349,
+      "longitude": -87.61793,
+      "dpcapacity": 11,
+      "online_date": "8/3/13"
+    },
+    {
+      "id": 335,
+      "name": "Calumet Ave & 35th St",
+      "latitude": 41.831379,
+      "longitude": -87.618034,
+      "dpcapacity": 15,
+      "online_date": "10/17/13"
+    },
+    {
+      "id": 415,
+      "name": "Calumet Ave & 51st St",
+      "latitude": 41.802295,
+      "longitude": -87.618054,
+      "dpcapacity": 19,
+      "online_date": "4/16/15"
+    },
+    {
+      "id": 393,
+      "name": "Calumet Ave & 71st St",
+      "latitude": 41.765508,
+      "longitude": -87.616918,
+      "dpcapacity": 15,
+      "online_date": "4/21/15"
+    },
+    {
+      "id": 504,
+      "name": "Campbell Ave & Fullerton Ave",
+      "latitude": 41.924632,
+      "longitude": -87.689307,
+      "dpcapacity": 15,
+      "online_date": "5/21/15"
+    },
+    {
+      "id": 482,
+      "name": "Campbell Ave & Montrose Ave",
+      "latitude": 41.961526,
+      "longitude": -87.691165,
+      "dpcapacity": 15,
+      "online_date": "5/14/15"
+    },
+    {
+      "id": 160,
+      "name": "Campbell Ave & North Ave",
+      "latitude": 41.910535,
+      "longitude": -87.689556,
+      "dpcapacity": 15,
+      "online_date": "7/26/13"
+    },
+    {
+      "id": 192,
+      "name": "Canal St & Adams St",
+      "latitude": 41.879255,
+      "longitude": -87.639904,
+      "dpcapacity": 47,
+      "online_date": "8/7/13"
+    },
+    {
+      "id": 169,
+      "name": "Canal St & Harrison St",
+      "latitude": 41.874337,
+      "longitude": -87.639566,
+      "dpcapacity": 15,
+      "online_date": "7/23/13"
+    },
+    {
+      "id": 75,
+      "name": "Canal St & Jackson Blvd",
+      "latitude": 41.878412,
+      "longitude": -87.641052,
+      "dpcapacity": 31,
+      "online_date": "6/15/13"
+    },
+    {
+      "id": 174,
+      "name": "Canal St & Madison St",
+      "latitude": 41.882091,
+      "longitude": -87.639833,
+      "dpcapacity": 27,
+      "online_date": "7/28/13"
+    },
+    {
+      "id": 191,
+      "name": "Canal St & Monroe St",
+      "latitude": 41.880884,
+      "longitude": -87.639525,
+      "dpcapacity": 23,
+      "online_date": "8/7/13"
+    },
+    {
+      "id": 414,
+      "name": "Canal St & Taylor St",
+      "latitude": 41.870257,
+      "longitude": -87.639474,
+      "dpcapacity": 15,
+      "online_date": "11/25/15"
+    },
+    {
+      "id": 34,
+      "name": "Cannon Dr & Fullerton Ave",
+      "latitude": 41.926756,
+      "longitude": -87.634429,
+      "dpcapacity": 15,
+      "online_date": "6/27/13"
+    },
+    {
+      "id": 92,
+      "name": "Carpenter St & Huron St",
+      "latitude": 41.894556,
+      "longitude": -87.653449,
+      "dpcapacity": 19,
+      "online_date": "6/26/13"
+    },
+    {
+      "id": 541,
+      "name": "Central Ave & Harrison St",
+      "latitude": 41.872993,
+      "longitude": -87.764499,
+      "dpcapacity": 15,
+      "online_date": "6/14/16"
+    },
+    {
+      "id": 542,
+      "name": "Central Ave & Madison St",
+      "latitude": 41.880121,
+      "longitude": -87.763238,
+      "dpcapacity": 15,
+      "online_date": "6/14/16"
+    },
+    {
+      "id": 500,
+      "name": "Central Park Ave & Elbridge Ave",
+      "latitude": 41.935337,
+      "longitude": -87.716889,
+      "dpcapacity": 15,
+      "online_date": "5/4/15"
+    },
+    {
+      "id": 508,
+      "name": "Central Park Ave & North Ave",
+      "latitude": 41.909657,
+      "longitude": -87.716632,
+      "dpcapacity": 15,
+      "online_date": "4/30/15"
+    },
+    {
+      "id": 438,
+      "name": "Central Park Ave & Ogden Ave",
+      "latitude": 41.854204,
+      "longitude": -87.715406,
+      "dpcapacity": 19,
+      "online_date": "4/29/15"
+    },
+    {
+      "id": 533,
+      "name": "Central Park Blvd & 5th Ave",
+      "latitude": 41.875679,
+      "longitude": -87.71547,
+      "dpcapacity": 15,
+      "online_date": "6/10/16"
+    },
+    {
+      "id": 474,
+      "name": "Christiana Ave & Lawrence Ave",
+      "latitude": 41.968354,
+      "longitude": -87.711831,
+      "dpcapacity": 15,
+      "online_date": "5/16/15"
+    },
+    {
+      "id": 538,
+      "name": "Cicero Ave & Flournoy St",
+      "latitude": 41.872131,
+      "longitude": -87.746619,
+      "dpcapacity": 15,
+      "online_date": "6/15/16"
+    },
+    {
+      "id": 529,
+      "name": "Cicero Ave & Lake St",
+      "latitude": 41.886841,
+      "longitude": -87.745261,
+      "dpcapacity": 15,
+      "online_date": "6/10/16"
+    },
+    {
+      "id": 539,
+      "name": "Cicero Ave & Quincy St",
+      "latitude": 41.877613,
+      "longitude": -87.745405,
+      "dpcapacity": 15,
+      "online_date": "6/14/16"
+    },
+    {
+      "id": 196,
+      "name": "Cityfront Plaza Dr & Pioneer Ct",
+      "latitude": 41.890573,
+      "longitude": -87.622072,
+      "dpcapacity": 19,
+      "online_date": "8/10/13"
+    },
+    {
+      "id": 159,
+      "name": "Claremont Ave & Hirsch St",
+      "latitude": 41.907781,
+      "longitude": -87.685854,
+      "dpcapacity": 11,
+      "online_date": "7/26/13"
+    },
+    {
+      "id": 312,
+      "name": "Clarendon Ave & Gordon Ter",
+      "latitude": 41.957879,
+      "longitude": -87.649519,
+      "dpcapacity": 15,
+      "online_date": "9/20/13"
+    },
+    {
+      "id": 245,
+      "name": "Clarendon Ave & Junior Ter",
+      "latitude": 41.961004,
+      "longitude": -87.649603,
+      "dpcapacity": 15,
+      "online_date": "8/26/13"
+    },
+    {
+      "id": 251,
+      "name": "Clarendon Ave & Leland Ave",
+      "latitude": 41.967968,
+      "longitude": -87.650001,
+      "dpcapacity": 15,
+      "online_date": "8/26/13"
+    },
+    {
+      "id": 394,
+      "name": "Clark St & 9th St (AMLI)",
+      "latitude": 41.870816,
+      "longitude": -87.631246,
+      "dpcapacity": 15,
+      "online_date": "8/26/15"
+    },
+    {
+      "id": 94,
+      "name": "Clark St & Armitage Ave",
+      "latitude": 41.918306,
+      "longitude": -87.636282,
+      "dpcapacity": 19,
+      "online_date": "6/22/13"
+    },
+    {
+      "id": 463,
+      "name": "Clark St & Berwyn Ave",
+      "latitude": 41.977997,
+      "longitude": -87.668047,
+      "dpcapacity": 19,
+      "online_date": "5/14/15"
+    },
+    {
+      "id": 460,
+      "name": "Clark St & Bryn Mawr Ave",
+      "latitude": 41.983593,
+      "longitude": -87.669154,
+      "dpcapacity": 15,
+      "online_date": "5/11/15"
+    },
+    {
+      "id": 337,
+      "name": "Clark St & Chicago Ave",
+      "latitude": 41.896544,
+      "longitude": -87.630931,
+      "dpcapacity": 19,
+      "online_date": "9/27/13"
+    },
+    {
+      "id": 449,
+      "name": "Clark St & Columbia Ave",
+      "latitude": 42.004451,
+      "longitude": -87.672402,
+      "dpcapacity": 15,
+      "online_date": "5/12/15"
+    },
+    {
+      "id": 50,
+      "name": "Clark St & Congress Pkwy",
+      "latitude": 41.875933,
+      "longitude": -87.630585,
+      "dpcapacity": 27,
+      "online_date": "6/16/13"
+    },
+    {
+      "id": 176,
+      "name": "Clark St & Elm St",
+      "latitude": 41.903233,
+      "longitude": -87.631253,
+      "dpcapacity": 19,
+      "online_date": "8/1/13"
+    },
+    {
+      "id": 457,
+      "name": "Clark St & Elmdale Ave",
+      "latitude": 41.990894,
+      "longitude": -87.669583,
+      "dpcapacity": 19,
+      "online_date": "5/11/15"
+    },
+    {
+      "id": 165,
+      "name": "Clark St & Grace St",
+      "latitude": 41.95078,
+      "longitude": -87.659172,
+      "dpcapacity": 19,
+      "online_date": "8/3/13"
+    },
+    {
+      "id": 38,
+      "name": "Clark St & Lake St",
+      "latitude": 41.886021,
+      "longitude": -87.630876,
+      "dpcapacity": 27,
+      "online_date": "4/18/15"
+    },
+    {
+      "id": 326,
+      "name": "Clark St & Leland Ave",
+      "latitude": 41.967096,
+      "longitude": -87.667429,
+      "dpcapacity": 11,
+      "online_date": "9/27/13"
+    },
+    {
+      "id": 141,
+      "name": "Clark St & Lincoln Ave",
+      "latitude": 41.915689,
+      "longitude": -87.6346,
+      "dpcapacity": 23,
+      "online_date": "8/16/13"
+    },
+    {
+      "id": 432,
+      "name": "Clark St & Lunt Ave",
+      "latitude": 42.009069,
+      "longitude": -87.673711,
+      "dpcapacity": 15,
+      "online_date": "5/15/15"
+    },
+    {
+      "id": 234,
+      "name": "Clark St & Montrose Ave",
+      "latitude": 41.961588,
+      "longitude": -87.666036,
+      "dpcapacity": 19,
+      "online_date": "8/21/13"
+    },
+    {
+      "id": 126,
+      "name": "Clark St & North Ave",
+      "latitude": 41.911974,
+      "longitude": -87.631942,
+      "dpcapacity": 15,
+      "online_date": "7/29/13"
+    },
+    {
+      "id": 51,
+      "name": "Clark St & Randolph St",
+      "latitude": 41.884576,
+      "longitude": -87.63189,
+      "dpcapacity": 31,
+      "online_date": "6/17/13"
+    },
+    {
+      "id": 301,
+      "name": "Clark St & Schiller St",
+      "latitude": 41.907993,
+      "longitude": -87.631501,
+      "dpcapacity": 19,
+      "online_date": "9/19/13"
+    },
+    {
+      "id": 453,
+      "name": "Clark St & Schreiber Ave",
+      "latitude": 41.999252,
+      "longitude": -87.671377,
+      "dpcapacity": 15,
+      "online_date": "5/12/15"
+    },
+    {
+      "id": 353,
+      "name": "Clark St & Touhy Ave",
+      "latitude": 42.01256,
+      "longitude": -87.674367,
+      "dpcapacity": 15,
+      "online_date": "5/18/15"
+    },
+    {
+      "id": 156,
+      "name": "Clark St & Wellington Ave",
+      "latitude": 41.936497,
+      "longitude": -87.647539,
+      "dpcapacity": 15,
+      "online_date": "8/2/13"
+    },
+    {
+      "id": 325,
+      "name": "Clark St & Winnemac Ave",
+      "latitude": 41.973385,
+      "longitude": -87.668365,
+      "dpcapacity": 19,
+      "online_date": "9/23/13"
+    },
+    {
+      "id": 340,
+      "name": "Clark St & Wrightwood Ave",
+      "latitude": 41.929546,
+      "longitude": -87.643118,
+      "dpcapacity": 15,
+      "online_date": "10/24/13"
+    },
+    {
+      "id": 223,
+      "name": "Clifton Ave & Armitage Ave",
+      "latitude": 41.918216,
+      "longitude": -87.656936,
+      "dpcapacity": 15,
+      "online_date": "8/22/13"
+    },
+    {
+      "id": 253,
+      "name": "Clifton Ave & Lawrence Ave",
+      "latitude": 41.968873,
+      "longitude": -87.658857,
+      "dpcapacity": 15,
+      "online_date": "9/5/13"
+    },
+    {
+      "id": 170,
+      "name": "Clinton St & 18th St",
+      "latitude": 41.85795,
+      "longitude": -87.640826,
+      "dpcapacity": 15,
+      "online_date": "7/25/13"
+    },
+    {
+      "id": 66,
+      "name": "Clinton St & Lake St",
+      "latitude": 41.885464,
+      "longitude": -87.641253,
+      "dpcapacity": 19,
+      "online_date": "6/20/13"
+    },
+    {
+      "id": 77,
+      "name": "Clinton St & Madison St",
+      "latitude": 41.882242,
+      "longitude": -87.641066,
+      "dpcapacity": 31,
+      "online_date": "6/15/13"
+    },
+    {
+      "id": 103,
+      "name": "Clinton St & Polk St",
+      "latitude": 41.871467,
+      "longitude": -87.640949,
+      "dpcapacity": 15,
+      "online_date": "5/8/15"
+    },
+    {
+      "id": 57,
+      "name": "Clinton St & Roosevelt Rd",
+      "latitude": 41.867118,
+      "longitude": -87.641088,
+      "dpcapacity": 15,
+      "online_date": "6/17/13"
+    },
+    {
+      "id": 68,
+      "name": "Clinton St & Tilden St",
+      "latitude": 41.875885,
+      "longitude": -87.640795,
+      "dpcapacity": 23,
+      "online_date": "6/24/13"
+    },
+    {
+      "id": 91,
+      "name": "Clinton St & Washington Blvd",
+      "latitude": 41.88338,
+      "longitude": -87.64117,
+      "dpcapacity": 31,
+      "online_date": "6/15/13"
+    },
+    {
+      "id": 138,
+      "name": "Clybourn Ave & Division St",
+      "latitude": 41.904613,
+      "longitude": -87.640552,
+      "dpcapacity": 15,
+      "online_date": "8/5/13"
+    },
+    {
+      "id": 195,
+      "name": "Columbus Dr & Randolph St",
+      "latitude": 41.884728,
+      "longitude": -87.619521,
+      "dpcapacity": 31,
+      "online_date": "8/10/13"
+    },
+    {
+      "id": 518,
+      "name": "Conservatory Dr & Lake St",
+      "latitude": 41.885502,
+      "longitude": -87.716866,
+      "dpcapacity": 15,
+      "online_date": "6/2/16"
+    },
+    {
+      "id": 417,
+      "name": "Cornell Ave & Hyde Park Blvd",
+      "latitude": 41.802406,
+      "longitude": -87.586924,
+      "dpcapacity": 19,
+      "online_date": "4/16/15"
+    },
+    {
+      "id": 271,
+      "name": "Cottage Grove Ave & 43rd St",
+      "latitude": 41.816499,
+      "longitude": -87.606582,
+      "dpcapacity": 11,
+      "online_date": "9/12/13"
+    },
+    {
+      "id": 336,
+      "name": "Cottage Grove Ave & 47th St",
+      "latitude": 41.809855,
+      "longitude": -87.606755,
+      "dpcapacity": 15,
+      "online_date": "10/17/13"
+    },
+    {
+      "id": 351,
+      "name": "Cottage Grove Ave & 51st St",
+      "latitude": 41.803038,
+      "longitude": -87.606615,
+      "dpcapacity": 15,
+      "online_date": "10/17/13"
+    },
+    {
+      "id": 427,
+      "name": "Cottage Grove Ave & 63rd St",
+      "latitude": 41.780599,
+      "longitude": -87.606112,
+      "dpcapacity": 19,
+      "online_date": "4/20/15"
+    },
+    {
+      "id": 429,
+      "name": "Cottage Grove Ave & 67th St",
+      "latitude": 41.773721,
+      "longitude": -87.605635,
+      "dpcapacity": 15,
+      "online_date": "4/21/15"
+    },
+    {
+      "id": 400,
+      "name": "Cottage Grove Ave & 71st St",
+      "latitude": 41.765719,
+      "longitude": -87.60496,
+      "dpcapacity": 19,
+      "online_date": "4/21/15"
+    },
+    {
+      "id": 265,
+      "name": "Cottage Grove Ave & Oakwood Blvd",
+      "latitude": 41.822985,
+      "longitude": -87.6071,
+      "dpcapacity": 15,
+      "online_date": "9/17/13"
+    },
+    {
+      "id": 81,
+      "name": "Daley Center Plaza",
+      "latitude": 41.884241,
+      "longitude": -87.629634,
+      "dpcapacity": 39,
+      "online_date": "6/13/13"
+    },
+    {
+      "id": 554,
+      "name": "Damen Ave & 51st St",
+      "latitude": 41.800908,
+      "longitude": -87.674684,
+      "dpcapacity": 11,
+      "online_date": "6/17/16"
+    },
+    {
+      "id": 561,
+      "name": "Damen Ave & 61st St",
+      "latitude": 41.783681,
+      "longitude": -87.674101,
+      "dpcapacity": 11,
+      "online_date": "6/21/16"
+    },
+    {
+      "id": 183,
+      "name": "Damen Ave & Augusta Blvd",
+      "latitude": 41.899714,
+      "longitude": -87.677234,
+      "dpcapacity": 15,
+      "online_date": "7/26/13"
+    },
+    {
+      "id": 310,
+      "name": "Damen Ave & Charleston St",
+      "latitude": 41.920082,
+      "longitude": -87.677855,
+      "dpcapacity": 11,
+      "online_date": "9/20/13"
+    },
+    {
+      "id": 128,
+      "name": "Damen Ave & Chicago Ave",
+      "latitude": 41.895769,
+      "longitude": -87.67722,
+      "dpcapacity": 15,
+      "online_date": "8/3/13"
+    },
+    {
+      "id": 163,
+      "name": "Damen Ave & Clybourn Ave",
+      "latitude": 41.931931,
+      "longitude": -87.677856,
+      "dpcapacity": 15,
+      "online_date": "7/29/13"
+    },
+    {
+      "id": 219,
+      "name": "Damen Ave & Cortland St",
+      "latitude": 41.916027,
+      "longitude": -87.677411,
+      "dpcapacity": 11,
+      "online_date": "8/20/13"
+    },
+    {
+      "id": 167,
+      "name": "Damen Ave & Coulter St",
+      "latitude": 41.8492,
+      "longitude": -87.67564,
+      "dpcapacity": 11,
+      "online_date": "7/25/13"
+    },
+    {
+      "id": 124,
+      "name": "Damen Ave & Cullerton St",
+      "latitude": 41.855048,
+      "longitude": -87.675726,
+      "dpcapacity": 15,
+      "online_date": "8/3/13"
+    },
+    {
+      "id": 130,
+      "name": "Damen Ave & Division St",
+      "latitude": 41.90331,
+      "longitude": -87.67695,
+      "dpcapacity": 15,
+      "online_date": "7/26/13"
+    },
+    {
+      "id": 464,
+      "name": "Damen Ave & Foster Ave",
+      "latitude": 41.975615,
+      "longitude": -87.679459,
+      "dpcapacity": 15,
+      "online_date": "5/13/15"
+    },
+    {
+      "id": 557,
+      "name": "Damen Ave & Garfield Blvd",
+      "latitude": 41.794587,
+      "longitude": -87.674254,
+      "dpcapacity": 11,
+      "online_date": "6/20/16"
+    },
+    {
+      "id": 214,
+      "name": "Damen Ave & Grand Ave",
+      "latitude": 41.89122,
+      "longitude": -87.67686,
+      "dpcapacity": 15,
+      "online_date": "8/16/13"
+    },
+    {
+      "id": 242,
+      "name": "Damen Ave & Leland Ave",
+      "latitude": 41.967094,
+      "longitude": -87.679028,
+      "dpcapacity": 15,
+      "online_date": "8/22/13"
+    },
+    {
+      "id": 215,
+      "name": "Damen Ave & Madison St",
+      "latitude": 41.88137,
+      "longitude": -87.67493,
+      "dpcapacity": 15,
+      "online_date": "8/15/13"
+    },
+    {
+      "id": 228,
+      "name": "Damen Ave & Melrose Ave",
+      "latitude": 41.9406,
+      "longitude": -87.6785,
+      "dpcapacity": 11,
+      "online_date": "8/20/13"
+    },
+    {
+      "id": 546,
+      "name": "Damen Ave & Pershing Rd",
+      "latitude": 41.823192,
+      "longitude": -87.676597,
+      "dpcapacity": 11,
+      "online_date": "6/16/16"
+    },
+    {
+      "id": 69,
+      "name": "Damen Ave & Pierce Ave",
+      "latitude": 41.909396,
+      "longitude": -87.677692,
+      "dpcapacity": 19,
+      "online_date": "6/24/13"
+    },
+    {
+      "id": 316,
+      "name": "Damen Ave & Sunnyside Ave",
+      "latitude": 41.96325,
+      "longitude": -87.679258,
+      "dpcapacity": 19,
+      "online_date": "9/25/13"
+    },
+    {
+      "id": 162,
+      "name": "Damen Ave & Wellington Ave",
+      "latitude": 41.93588,
+      "longitude": -87.67842,
+      "dpcapacity": 15,
+      "online_date": "7/25/13"
+    },
+    {
+      "id": 60,
+      "name": "Dayton St & North Ave",
+      "latitude": 41.910578,
+      "longitude": -87.649422,
+      "dpcapacity": 19,
+      "online_date": "6/18/13"
+    },
+    {
+      "id": 140,
+      "name": "Dearborn Pkwy & Delaware Pl",
+      "latitude": 41.898969,
+      "longitude": -87.629912,
+      "dpcapacity": 19,
+      "online_date": "8/1/13"
+    },
+    {
+      "id": 37,
+      "name": "Dearborn St & Adams St",
+      "latitude": 41.879356,
+      "longitude": -87.629791,
+      "dpcapacity": 19,
+      "online_date": "6/16/13"
+    },
+    {
+      "id": 110,
+      "name": "Dearborn St & Erie St",
+      "latitude": 41.893992,
+      "longitude": -87.629318,
+      "dpcapacity": 23,
+      "online_date": "8/1/13"
+    },
+    {
+      "id": 49,
+      "name": "Dearborn St & Monroe St",
+      "latitude": 41.88132,
+      "longitude": -87.629521,
+      "dpcapacity": 27,
+      "online_date": "6/16/13"
+    },
+    {
+      "id": 107,
+      "name": "Desplaines St & Jackson Blvd",
+      "latitude": 41.878287,
+      "longitude": -87.643909,
+      "dpcapacity": 23,
+      "online_date": "4/25/15"
+    },
+    {
+      "id": 56,
+      "name": "Desplaines St & Kinzie St",
+      "latitude": 41.888716,
+      "longitude": -87.644448,
+      "dpcapacity": 27,
+      "online_date": "6/17/13"
+    },
+    {
+      "id": 96,
+      "name": "Desplaines St & Randolph St",
+      "latitude": 41.884616,
+      "longitude": -87.644571,
+      "dpcapacity": 23,
+      "online_date": "4/25/15"
+    },
+    {
+      "id": 416,
+      "name": "Dorchester Ave & 49th St",
+      "latitude": 41.805772,
+      "longitude": -87.592464,
+      "dpcapacity": 15,
+      "online_date": "4/16/15"
+    },
+    {
+      "id": 428,
+      "name": "Dorchester Ave & 63rd St",
+      "latitude": 41.780406,
+      "longitude": -87.591416,
+      "dpcapacity": 15,
+      "online_date": "4/20/15"
+    },
+    {
+      "id": 489,
+      "name": "Drake Ave & Addison St",
+      "latitude": 41.946782,
+      "longitude": -87.716422,
+      "dpcapacity": 23,
+      "online_date": "5/13/15"
+    },
+    {
+      "id": 503,
+      "name": "Drake Ave & Fullerton Ave",
+      "latitude": 41.924399,
+      "longitude": -87.715441,
+      "dpcapacity": 15,
+      "online_date": "5/1/15"
+    },
+    {
+      "id": 479,
+      "name": "Drake Ave & Montrose Ave",
+      "latitude": 41.961154,
+      "longitude": -87.716569,
+      "dpcapacity": 11,
+      "online_date": "5/5/15"
+    },
+    {
+      "id": 6,
+      "name": "DuSable Harbor",
+      "latitude": 41.885042,
+      "longitude": -87.612795,
+      "dpcapacity": 31,
+      "online_date": "4/24/15"
+    },
+    {
+      "id": 422,
+      "name": "DuSable Museum",
+      "latitude": 41.791568,
+      "longitude": -87.607852,
+      "dpcapacity": 15,
+      "online_date": "7/7/15"
+    },
+    {
+      "id": 431,
+      "name": "Eberhart Ave & 61st St",
+      "latitude": 41.784142,
+      "longitude": -87.613308,
+      "dpcapacity": 15,
+      "online_date": "4/20/15"
+    },
+    {
+      "id": 86,
+      "name": "Eckhart Park",
+      "latitude": 41.896373,
+      "longitude": -87.660984,
+      "dpcapacity": 15,
+      "online_date": "6/26/13"
+    },
+    {
+      "id": 553,
+      "name": "Elizabeth St & 47th St",
+      "latitude": 41.80839,
+      "longitude": -87.656526,
+      "dpcapacity": 11,
+      "online_date": "6/16/16"
+    },
+    {
+      "id": 418,
+      "name": "Ellis Ave & 53rd St",
+      "latitude": 41.799336,
+      "longitude": -87.600958,
+      "dpcapacity": 11,
+      "online_date": "4/17/15"
+    },
+    {
+      "id": 420,
+      "name": "Ellis Ave & 55th St",
+      "latitude": 41.794301,
+      "longitude": -87.60145,
+      "dpcapacity": 19,
+      "online_date": "4/17/15"
+    },
+    {
+      "id": 328,
+      "name": "Ellis Ave & 58th St",
+      "latitude": 41.788746,
+      "longitude": -87.601334,
+      "dpcapacity": 15,
+      "online_date": "9/25/13"
+    },
+    {
+      "id": 426,
+      "name": "Ellis Ave & 60th St",
+      "latitude": 41.785097,
+      "longitude": -87.601073,
+      "dpcapacity": 19,
+      "online_date": "4/17/15"
+    },
+    {
+      "id": 315,
+      "name": "Elston Ave & Wabansia Ave",
+      "latitude": 41.912919,
+      "longitude": -87.664169,
+      "dpcapacity": 23,
+      "online_date": "9/21/13"
+    },
+    {
+      "id": 207,
+      "name": "Emerald Ave & 28th St",
+      "latitude": 41.84358,
+      "longitude": -87.645368,
+      "dpcapacity": 15,
+      "online_date": "8/15/13"
+    },
+    {
+      "id": 339,
+      "name": "Emerald Ave & 31st St",
+      "latitude": 41.838198,
+      "longitude": -87.645143,
+      "dpcapacity": 11,
+      "online_date": "9/28/13"
+    },
+    {
+      "id": 570,
+      "name": "Evans Ave & 75th St",
+      "latitude": 41.758308,
+      "longitude": -87.606685,
+      "dpcapacity": 11,
+      "online_date": "6/23/16"
+    },
+    {
+      "id": 24,
+      "name": "Fairbanks Ct & Grand Ave",
+      "latitude": 41.89186,
+      "longitude": -87.62062,
+      "dpcapacity": 15,
+      "online_date": "6/21/13"
+    },
+    {
+      "id": 436,
+      "name": "Fairfield Ave & Roosevelt Rd",
+      "latitude": 41.866624,
+      "longitude": -87.694521,
+      "dpcapacity": 15,
+      "online_date": "4/27/15"
+    },
+    {
+      "id": 41,
+      "name": "Federal St & Polk St",
+      "latitude": 41.872078,
+      "longitude": -87.629544,
+      "dpcapacity": 19,
+      "online_date": "4/25/15"
+    },
+    {
+      "id": 7,
+      "name": "Field Blvd & South Water St",
+      "latitude": 41.886349,
+      "longitude": -87.617517,
+      "dpcapacity": 19,
+      "online_date": "4/18/15"
+    },
+    {
+      "id": 89,
+      "name": "Financial Pl & Congress Pkwy",
+      "latitude": 41.875009,
+      "longitude": -87.633106,
+      "dpcapacity": 31,
+      "online_date": "5/8/15"
+    },
+    {
+      "id": 150,
+      "name": "Fort Dearborn Dr & 31st St",
+      "latitude": 41.838556,
+      "longitude": -87.608218,
+      "dpcapacity": 15,
+      "online_date": "7/23/13"
+    },
+    {
+      "id": 471,
+      "name": "Francisco Ave & Foster Ave",
+      "latitude": 41.975633,
+      "longitude": -87.701419,
+      "dpcapacity": 15,
+      "online_date": "5/14/15"
+    },
+    {
+      "id": 31,
+      "name": "Franklin St & Chicago Ave",
+      "latitude": 41.896802,
+      "longitude": -87.635638,
+      "dpcapacity": 23,
+      "online_date": "6/22/13"
+    },
+    {
+      "id": 36,
+      "name": "Franklin St & Jackson Blvd",
+      "latitude": 41.877708,
+      "longitude": -87.635321,
+      "dpcapacity": 31,
+      "online_date": "6/15/13"
+    },
+    {
+      "id": 164,
+      "name": "Franklin St & Lake St",
+      "latitude": 41.885837,
+      "longitude": -87.6355,
+      "dpcapacity": 23,
+      "online_date": "8/3/13"
+    },
+    {
+      "id": 287,
+      "name": "Franklin St & Monroe St",
+      "latitude": 41.880317,
+      "longitude": -87.635185,
+      "dpcapacity": 27,
+      "online_date": "9/13/13"
+    },
+    {
+      "id": 286,
+      "name": "Franklin St & Quincy St",
+      "latitude": 41.878724,
+      "longitude": -87.634793,
+      "dpcapacity": 23,
+      "online_date": "9/14/13"
+    },
+    {
+      "id": 447,
+      "name": "Glenwood Ave & Morse Ave",
+      "latitude": 42.007972,
+      "longitude": -87.665502,
+      "dpcapacity": 15,
+      "online_date": "5/15/15"
+    },
+    {
+      "id": 198,
+      "name": "Green St & Madison St",
+      "latitude": 41.881892,
+      "longitude": -87.648789,
+      "dpcapacity": 19,
+      "online_date": "8/10/13"
+    },
+    {
+      "id": 112,
+      "name": "Green St & Randolph St",
+      "latitude": 41.883668,
+      "longitude": -87.64867,
+      "dpcapacity": 15,
+      "online_date": "7/29/13"
+    },
+    {
+      "id": 319,
+      "name": "Greenview Ave & Diversey Pkwy",
+      "latitude": 41.932595,
+      "longitude": -87.665939,
+      "dpcapacity": 15,
+      "online_date": "9/26/13"
+    },
+    {
+      "id": 188,
+      "name": "Greenview Ave & Fullerton Ave",
+      "latitude": 41.92533,
+      "longitude": -87.6658,
+      "dpcapacity": 15,
+      "online_date": "7/29/13"
+    },
+    {
+      "id": 252,
+      "name": "Greenwood Ave & 47th St",
+      "latitude": 41.809835,
+      "longitude": -87.599383,
+      "dpcapacity": 15,
+      "online_date": "8/27/13"
+    },
+    {
+      "id": 202,
+      "name": "Halsted St & 18th St",
+      "latitude": 41.857499,
+      "longitude": -87.646277,
+      "dpcapacity": 15,
+      "online_date": "8/15/13"
+    },
+    {
+      "id": 135,
+      "name": "Halsted St & 21st St",
+      "latitude": 41.85378,
+      "longitude": -87.64665,
+      "dpcapacity": 11,
+      "online_date": "7/24/13"
+    },
+    {
+      "id": 279,
+      "name": "Halsted St & 35th St",
+      "latitude": 41.830661,
+      "longitude": -87.647172,
+      "dpcapacity": 15,
+      "online_date": "9/13/13"
+    },
+    {
+      "id": 262,
+      "name": "Halsted St & 37th St",
+      "latitude": 41.827059,
+      "longitude": -87.64572,
+      "dpcapacity": 11,
+      "online_date": "10/1/13"
+    },
+    {
+      "id": 411,
+      "name": "Halsted St & 47th Pl",
+      "latitude": 41.808134,
+      "longitude": -87.645617,
+      "dpcapacity": 11,
+      "online_date": "4/15/15"
+    },
+    {
+      "id": 384,
+      "name": "Halsted St & 51st St",
+      "latitude": 41.801832,
+      "longitude": -87.645214,
+      "dpcapacity": 15,
+      "online_date": "4/15/15"
+    },
+    {
+      "id": 386,
+      "name": "Halsted St & 56th St",
+      "latitude": 41.79293,
+      "longitude": -87.64499,
+      "dpcapacity": 15,
+      "online_date": "4/15/15"
+    },
+    {
+      "id": 593,
+      "name": "Halsted St & 59th St",
+      "latitude": 41.787539,
+      "longitude": -87.644874,
+      "dpcapacity": 11,
+      "online_date": "6/21/16"
+    },
+    {
+      "id": 388,
+      "name": "Halsted St & 63rd St",
+      "latitude": 41.779381,
+      "longitude": -87.644621,
+      "dpcapacity": 15,
+      "online_date": "4/21/15"
+    },
+    {
+      "id": 391,
+      "name": "Halsted St & 69th St",
+      "latitude": 41.769062,
+      "longitude": -87.644614,
+      "dpcapacity": 15,
+      "online_date": "4/21/15"
+    },
+    {
+      "id": 206,
+      "name": "Halsted St & Archer Ave",
+      "latitude": 41.847203,
+      "longitude": -87.646795,
+      "dpcapacity": 15,
+      "online_date": "8/14/13"
+    },
+    {
+      "id": 331,
+      "name": "Halsted St & Blackhawk St",
+      "latitude": 41.908537,
+      "longitude": -87.648627,
+      "dpcapacity": 19,
+      "online_date": "9/28/13"
+    },
+    {
+      "id": 225,
+      "name": "Halsted St & Dickens Ave",
+      "latitude": 41.919936,
+      "longitude": -87.64883,
+      "dpcapacity": 15,
+      "online_date": "8/19/13"
+    },
+    {
+      "id": 332,
+      "name": "Halsted St & Diversey Pkwy",
+      "latitude": 41.933666,
+      "longitude": -87.648959,
+      "dpcapacity": 20,
+      "online_date": "9/28/13"
+    },
+    {
+      "id": 282,
+      "name": "Halsted St & Maxwell St",
+      "latitude": 41.864883,
+      "longitude": -87.647071,
+      "dpcapacity": 15,
+      "online_date": "9/13/13"
+    },
+    {
+      "id": 365,
+      "name": "Halsted St & North Branch St",
+      "latitude": 41.899368,
+      "longitude": -87.64848,
+      "dpcapacity": 15,
+      "online_date": "5/16/15"
+    },
+    {
+      "id": 108,
+      "name": "Halsted St & Polk St",
+      "latitude": 41.87184,
+      "longitude": -87.64664,
+      "dpcapacity": 19,
+      "online_date": "8/6/13"
+    },
+    {
+      "id": 55,
+      "name": "Halsted St & Roosevelt Rd",
+      "latitude": 41.867324,
+      "longitude": -87.648625,
+      "dpcapacity": 23,
+      "online_date": "6/17/13"
+    },
+    {
+      "id": 299,
+      "name": "Halsted St & Roscoe St",
+      "latitude": 41.94367,
+      "longitude": -87.64895,
+      "dpcapacity": 15,
+      "online_date": "9/19/13"
+    },
+    {
+      "id": 224,
+      "name": "Halsted St & Willow St",
+      "latitude": 41.913778,
+      "longitude": -87.64884,
+      "dpcapacity": 19,
+      "online_date": "8/22/13"
+    },
+    {
+      "id": 349,
+      "name": "Halsted St & Wrightwood Ave",
+      "latitude": 41.929143,
+      "longitude": -87.649077,
+      "dpcapacity": 15,
+      "online_date": "10/28/13"
+    },
+    {
+      "id": 220,
+      "name": "Hampden Ct & Diversey Pkwy",
+      "latitude": 41.93262,
+      "longitude": -87.642385,
+      "dpcapacity": 23,
+      "online_date": "8/19/13"
+    },
+    {
+      "id": 425,
+      "name": "Harper Ave & 59th St",
+      "latitude": 41.787943,
+      "longitude": -87.588315,
+      "dpcapacity": 15,
+      "online_date": "4/17/15"
+    },
+    {
+      "id": 261,
+      "name": "Hermitage Ave & Polk St",
+      "latitude": 41.871514,
+      "longitude": -87.669886,
+      "dpcapacity": 15,
+      "online_date": "9/5/13"
+    },
+    {
+      "id": 551,
+      "name": "Hoyne Ave & 47th St",
+      "latitude": 41.808227,
+      "longitude": -87.67718,
+      "dpcapacity": 11,
+      "online_date": "6/17/16"
+    },
+    {
+      "id": 507,
+      "name": "Humboldt Blvd & Armitage Ave",
+      "latitude": 41.917513,
+      "longitude": -87.701809,
+      "dpcapacity": 19,
+      "online_date": "5/1/15"
+    },
+    {
+      "id": 372,
+      "name": "Humboldt Dr & Luis Munoz Marin Dr",
+      "latitude": 41.900146,
+      "longitude": -87.702882,
+      "dpcapacity": 15,
+      "online_date": "4/30/15"
+    },
+    {
+      "id": 147,
+      "name": "Indiana Ave & 26th St",
+      "latitude": 41.8457,
+      "longitude": -87.62248,
+      "dpcapacity": 15,
+      "online_date": "7/23/13"
+    },
+    {
+      "id": 272,
+      "name": "Indiana Ave & 31st St",
+      "latitude": 41.838842,
+      "longitude": -87.621857,
+      "dpcapacity": 11,
+      "online_date": "9/12/13"
+    },
+    {
+      "id": 201,
+      "name": "Indiana Ave & 40th St",
+      "latitude": 41.82168,
+      "longitude": -87.6216,
+      "dpcapacity": 15,
+      "online_date": "8/14/13"
+    },
+    {
+      "id": 255,
+      "name": "Indiana Ave & Roosevelt Rd",
+      "latitude": 41.867888,
+      "longitude": -87.623041,
+      "dpcapacity": 31,
+      "online_date": "9/5/13"
+    },
+    {
+      "id": 73,
+      "name": "Jefferson St & Monroe St",
+      "latitude": 41.880422,
+      "longitude": -87.642746,
+      "dpcapacity": 19,
+      "online_date": "6/27/13"
+    },
+    {
+      "id": 352,
+      "name": "Jeffery Blvd & 67th St",
+      "latitude": 41.773518,
+      "longitude": -87.577143,
+      "dpcapacity": 15,
+      "online_date": "4/22/15"
+    },
+    {
+      "id": 11,
+      "name": "Jeffery Blvd & 71st St",
+      "latitude": 41.766638,
+      "longitude": -87.57645,
+      "dpcapacity": 11,
+      "online_date": "4/22/15"
+    },
+    {
+      "id": 395,
+      "name": "Jeffery Blvd & 76th St",
+      "latitude": 41.75712,
+      "longitude": -87.575839,
+      "dpcapacity": 15,
+      "online_date": "4/23/15"
+    },
+    {
+      "id": 439,
+      "name": "Kedzie Ave & 21st St",
+      "latitude": 41.853534,
+      "longitude": -87.705073,
+      "dpcapacity": 15,
+      "online_date": "4/28/15"
+    },
+    {
+      "id": 441,
+      "name": "Kedzie Ave & 24th St",
+      "latitude": 41.848191,
+      "longitude": -87.705414,
+      "dpcapacity": 15,
+      "online_date": "4/29/15"
+    },
+    {
+      "id": 494,
+      "name": "Kedzie Ave & Bryn Mawr Ave",
+      "latitude": 41.982397,
+      "longitude": -87.708923,
+      "dpcapacity": 15,
+      "online_date": "5/18/15"
+    },
+    {
+      "id": 373,
+      "name": "Kedzie Ave & Chicago Ave",
+      "latitude": 41.895465,
+      "longitude": -87.706128,
+      "dpcapacity": 15,
+      "online_date": "4/29/15"
+    },
+    {
+      "id": 470,
+      "name": "Kedzie Ave & Foster Ave",
+      "latitude": 41.975672,
+      "longitude": -87.709261,
+      "dpcapacity": 15,
+      "online_date": "5/6/15"
+    },
+    {
+      "id": 433,
+      "name": "Kedzie Ave & Harrison St",
+      "latitude": 41.8736,
+      "longitude": -87.704871,
+      "dpcapacity": 15,
+      "online_date": "4/28/15"
+    },
+    {
+      "id": 377,
+      "name": "Kedzie Ave & Lake St",
+      "latitude": 41.884603,
+      "longitude": -87.706304,
+      "dpcapacity": 19,
+      "online_date": "4/29/15"
+    },
+    {
+      "id": 476,
+      "name": "Kedzie Ave & Leland Ave",
+      "latitude": 41.966686,
+      "longitude": -87.708052,
+      "dpcapacity": 15,
+      "online_date": "5/5/15"
+    },
+    {
+      "id": 260,
+      "name": "Kedzie Ave & Milwaukee Ave",
+      "latitude": 41.929567,
+      "longitude": -87.707857,
+      "dpcapacity": 19,
+      "online_date": "9/17/13"
+    },
+    {
+      "id": 480,
+      "name": "Kedzie Ave & Montrose Ave",
+      "latitude": 41.96199,
+      "longitude": -87.708168,
+      "dpcapacity": 15,
+      "online_date": "5/5/15"
+    },
+    {
+      "id": 290,
+      "name": "Kedzie Ave & Palmer Ct",
+      "latitude": 41.921525,
+      "longitude": -87.707322,
+      "dpcapacity": 15,
+      "online_date": "10/9/13"
+    },
+    {
+      "id": 435,
+      "name": "Kedzie Ave & Roosevelt Rd",
+      "latitude": 41.866493,
+      "longitude": -87.706496,
+      "dpcapacity": 15,
+      "online_date": "4/28/15"
+    },
+    {
+      "id": 483,
+      "name": "Keeler Ave & Irving Park Rd",
+      "latitude": 41.953858,
+      "longitude": -87.73257,
+      "dpcapacity": 19,
+      "online_date": "5/6/15"
+    },
+    {
+      "id": 537,
+      "name": "Kenton Ave & Madison St",
+      "latitude": 41.880708,
+      "longitude": -87.741018,
+      "dpcapacity": 15,
+      "online_date": "6/10/16"
+    },
+    {
+      "id": 495,
+      "name": "Keystone Ave & Montrose Ave",
+      "latitude": 41.961108,
+      "longitude": -87.72897,
+      "dpcapacity": 15,
+      "online_date": "5/16/15"
+    },
+    {
+      "id": 497,
+      "name": "Kimball Ave & Belmont Ave",
+      "latitude": 41.939398,
+      "longitude": -87.711561,
+      "dpcapacity": 23,
+      "online_date": "5/2/15"
+    },
+    {
+      "id": 322,
+      "name": "Kimbark Ave & 53rd St",
+      "latitude": 41.799568,
+      "longitude": -87.594747,
+      "dpcapacity": 19,
+      "online_date": "9/21/13"
+    },
+    {
+      "id": 74,
+      "name": "Kingsbury St & Erie St",
+      "latitude": 41.893882,
+      "longitude": -87.641711,
+      "dpcapacity": 23,
+      "online_date": "6/14/13"
+    },
+    {
+      "id": 133,
+      "name": "Kingsbury St & Kinzie St",
+      "latitude": 41.889177,
+      "longitude": -87.638506,
+      "dpcapacity": 27,
+      "online_date": "4/25/15"
+    },
+    {
+      "id": 499,
+      "name": "Kosciuszko Park",
+      "latitude": 41.930585,
+      "longitude": -87.723777,
+      "dpcapacity": 15,
+      "online_date": "5/1/15"
+    },
+    {
+      "id": 545,
+      "name": "Kostner Ave & Adams St",
+      "latitude": 41.877917,
+      "longitude": -87.735737,
+      "dpcapacity": 15,
+      "online_date": "6/15/16"
+    },
+    {
+      "id": 536,
+      "name": "Kostner Ave & Lake St",
+      "latitude": 41.885928,
+      "longitude": -87.73541,
+      "dpcapacity": 15,
+      "online_date": "6/13/16"
+    },
+    {
+      "id": 406,
+      "name": "Lake Park Ave & 35th St",
+      "latitude": 41.831274,
+      "longitude": -87.608799,
+      "dpcapacity": 19,
+      "online_date": "4/14/15"
+    },
+    {
+      "id": 267,
+      "name": "Lake Park Ave & 47th St",
+      "latitude": 41.809443,
+      "longitude": -87.591875,
+      "dpcapacity": 15,
+      "online_date": "9/17/13"
+    },
+    {
+      "id": 419,
+      "name": "Lake Park Ave & 53rd St",
+      "latitude": 41.799494,
+      "longitude": -87.58645,
+      "dpcapacity": 15,
+      "online_date": "4/16/15"
+    },
+    {
+      "id": 345,
+      "name": "Lake Park Ave & 56th St",
+      "latitude": 41.793242,
+      "longitude": -87.587782,
+      "dpcapacity": 19,
+      "online_date": "10/9/13"
+    },
+    {
+      "id": 334,
+      "name": "Lake Shore Dr & Belmont Ave",
+      "latitude": 41.940775,
+      "longitude": -87.639192,
+      "dpcapacity": 19,
+      "online_date": "9/27/13"
+    },
+    {
+      "id": 329,
+      "name": "Lake Shore Dr & Diversey Pkwy",
+      "latitude": 41.932684,
+      "longitude": -87.63625,
+      "dpcapacity": 15,
+      "online_date": "9/25/13"
+    },
+    {
+      "id": 76,
+      "name": "Lake Shore Dr & Monroe St",
+      "latitude": 41.880958,
+      "longitude": -87.616743,
+      "dpcapacity": 39,
+      "online_date": "6/24/13"
+    },
+    {
+      "id": 268,
+      "name": "Lake Shore Dr & North Blvd",
+      "latitude": 41.911722,
+      "longitude": -87.626804,
+      "dpcapacity": 39,
+      "online_date": "9/12/13"
+    },
+    {
+      "id": 99,
+      "name": "Lake Shore Dr & Ohio St",
+      "latitude": 41.89257,
+      "longitude": -87.614492,
+      "dpcapacity": 19,
+      "online_date": "7/15/13"
+    },
+    {
+      "id": 157,
+      "name": "Lake Shore Dr & Wellington Ave",
+      "latitude": 41.936669,
+      "longitude": -87.636794,
+      "dpcapacity": 15,
+      "online_date": "8/1/13"
+    },
+    {
+      "id": 459,
+      "name": "Lakefront Trail & Bryn Mawr Ave",
+      "latitude": 41.984037,
+      "longitude": -87.65231,
+      "dpcapacity": 19,
+      "online_date": "5/11/15"
+    },
+    {
+      "id": 313,
+      "name": "Lakeview Ave & Fullerton Pkwy",
+      "latitude": 41.925858,
+      "longitude": -87.638973,
+      "dpcapacity": 19,
+      "online_date": "9/20/13"
+    },
+    {
+      "id": 543,
+      "name": "Laramie Ave & Gladys Ave",
+      "latitude": 41.875806,
+      "longitude": -87.755285,
+      "dpcapacity": 15,
+      "online_date": "6/14/16"
+    },
+    {
+      "id": 530,
+      "name": "Laramie Ave & Kinzie St",
+      "latitude": 41.887832,
+      "longitude": -87.755527,
+      "dpcapacity": 15,
+      "online_date": "6/13/16"
+    },
+    {
+      "id": 540,
+      "name": "Laramie Ave & Madison St",
+      "latitude": 41.88051,
+      "longitude": -87.753933,
+      "dpcapacity": 15,
+      "online_date": "6/14/16"
+    },
+    {
+      "id": 288,
+      "name": "Larrabee St & Armitage Ave",
+      "latitude": 41.918084,
+      "longitude": -87.643749,
+      "dpcapacity": 11,
+      "online_date": "9/13/13"
+    },
+    {
+      "id": 359,
+      "name": "Larrabee St & Division St",
+      "latitude": 41.903486,
+      "longitude": -87.643353,
+      "dpcapacity": 19,
+      "online_date": "5/2/15"
+    },
+    {
+      "id": 48,
+      "name": "Larrabee St & Kingsbury St",
+      "latitude": 41.897764,
+      "longitude": -87.642884,
+      "dpcapacity": 27,
+      "online_date": "6/16/13"
+    },
+    {
+      "id": 28,
+      "name": "Larrabee St & Menomonee St",
+      "latitude": 41.91468,
+      "longitude": -87.64332,
+      "dpcapacity": 15,
+      "online_date": "6/22/13"
+    },
+    {
+      "id": 27,
+      "name": "Larrabee St & North Ave",
+      "latitude": 41.91021,
+      "longitude": -87.6435,
+      "dpcapacity": 19,
+      "online_date": "6/22/13"
+    },
+    {
+      "id": 364,
+      "name": "Larrabee St & Oak St",
+      "latitude": 41.900219,
+      "longitude": -87.642985,
+      "dpcapacity": 15,
+      "online_date": "5/2/15"
+    },
+    {
+      "id": 144,
+      "name": "Larrabee St & Webster Ave",
+      "latitude": 41.921822,
+      "longitude": -87.64414,
+      "dpcapacity": 15,
+      "online_date": "8/2/13"
+    },
+    {
+      "id": 40,
+      "name": "LaSalle St & Adams St",
+      "latitude": 41.879344,
+      "longitude": -87.631985,
+      "dpcapacity": 15,
+      "online_date": "4/25/15"
+    },
+    {
+      "id": 181,
+      "name": "LaSalle St & Illinois St",
+      "latitude": 41.890749,
+      "longitude": -87.63206,
+      "dpcapacity": 31,
+      "online_date": "7/21/13"
+    },
+    {
+      "id": 283,
+      "name": "LaSalle St & Jackson Blvd",
+      "latitude": 41.87817,
+      "longitude": -87.631985,
+      "dpcapacity": 31,
+      "online_date": "9/14/13"
+    },
+    {
+      "id": 98,
+      "name": "LaSalle St & Washington St",
+      "latitude": 41.882664,
+      "longitude": -87.63253,
+      "dpcapacity": 15,
+      "online_date": "7/15/13"
+    },
+    {
+      "id": 440,
+      "name": "Lawndale Ave & 23rd St",
+      "latitude": 41.849882,
+      "longitude": -87.717,
+      "dpcapacity": 15,
+      "online_date": "5/7/15"
+    },
+    {
+      "id": 492,
+      "name": "Leavitt St & Addison St",
+      "latitude": 41.947029,
+      "longitude": -87.683367,
+      "dpcapacity": 15,
+      "online_date": "5/13/15"
+    },
+    {
+      "id": 9,
+      "name": "Leavitt St & Archer Ave",
+      "latitude": 41.828792,
+      "longitude": -87.680604,
+      "dpcapacity": 19,
+      "online_date": "4/14/15"
+    },
+    {
+      "id": 309,
+      "name": "Leavitt St & Armitage Ave",
+      "latitude": 41.917805,
+      "longitude": -87.682437,
+      "dpcapacity": 11,
+      "online_date": "9/20/13"
+    },
+    {
+      "id": 311,
+      "name": "Leavitt St & Lawrence Ave",
+      "latitude": 41.968885,
+      "longitude": -87.684001,
+      "dpcapacity": 19,
+      "online_date": "9/20/13"
+    },
+    {
+      "id": 213,
+      "name": "Leavitt St & North Ave",
+      "latitude": 41.910153,
+      "longitude": -87.68229,
+      "dpcapacity": 15,
+      "online_date": "8/16/13"
+    },
+    {
+      "id": 330,
+      "name": "Lincoln Ave & Addison St",
+      "latitude": 41.946176,
+      "longitude": -87.673308,
+      "dpcapacity": 19,
+      "online_date": "9/26/13"
+    },
+    {
+      "id": 298,
+      "name": "Lincoln Ave & Belle Plaine Ave",
+      "latitude": 41.955927,
+      "longitude": -87.679259,
+      "dpcapacity": 15,
+      "online_date": "10/1/13"
+    },
+    {
+      "id": 131,
+      "name": "Lincoln Ave & Belmont Ave",
+      "latitude": 41.939365,
+      "longitude": -87.668385,
+      "dpcapacity": 15,
+      "online_date": "9/23/13"
+    },
+    {
+      "id": 152,
+      "name": "Lincoln Ave & Diversey Pkwy",
+      "latitude": 41.932225,
+      "longitude": -87.658617,
+      "dpcapacity": 15,
+      "online_date": "7/29/13"
+    },
+    {
+      "id": 127,
+      "name": "Lincoln Ave & Fullerton Ave",
+      "latitude": 41.925905,
+      "longitude": -87.64926,
+      "dpcapacity": 15,
+      "online_date": "10/29/13"
+    },
+    {
+      "id": 243,
+      "name": "Lincoln Ave & Leavitt St",
+      "latitude": 41.962391,
+      "longitude": -87.684146,
+      "dpcapacity": 15,
+      "online_date": "8/22/13"
+    },
+    {
+      "id": 230,
+      "name": "Lincoln Ave & Roscoe St",
+      "latitude": 41.94334,
+      "longitude": -87.67097,
+      "dpcapacity": 19,
+      "online_date": "8/20/13"
+    },
+    {
+      "id": 257,
+      "name": "Lincoln Ave & Waveland Ave",
+      "latitude": 41.94911,
+      "longitude": -87.675112,
+      "dpcapacity": 15,
+      "online_date": "9/9/13"
+    },
+    {
+      "id": 472,
+      "name": "Lincoln Ave & Winona St",
+      "latitude": 41.974911,
+      "longitude": -87.692503,
+      "dpcapacity": 15,
+      "online_date": "5/6/15"
+    },
+    {
+      "id": 258,
+      "name": "Logan Blvd & Elston Ave",
+      "latitude": 41.930584,
+      "longitude": -87.685126,
+      "dpcapacity": 19,
+      "online_date": "9/9/13"
+    },
+    {
+      "id": 366,
+      "name": "Loomis St & Archer Ave",
+      "latitude": 41.841633,
+      "longitude": -87.657435,
+      "dpcapacity": 15,
+      "online_date": "4/13/15"
+    },
+    {
+      "id": 146,
+      "name": "Loomis St & Jackson Blvd",
+      "latitude": 41.877945,
+      "longitude": -87.662007,
+      "dpcapacity": 11,
+      "online_date": "7/28/13"
+    },
+    {
+      "id": 320,
+      "name": "Loomis St & Lexington St",
+      "latitude": 41.872187,
+      "longitude": -87.661501,
+      "dpcapacity": 15,
+      "online_date": "9/21/13"
+    },
+    {
+      "id": 19,
+      "name": "Loomis St & Taylor St",
+      "latitude": 41.869417,
+      "longitude": -87.660996,
+      "dpcapacity": 15,
+      "online_date": "6/21/13"
+    },
+    {
+      "id": 477,
+      "name": "Manor Ave & Leland Ave",
+      "latitude": 41.966318,
+      "longitude": -87.701083,
+      "dpcapacity": 11,
+      "online_date": "5/5/15"
+    },
+    {
+      "id": 455,
+      "name": "Maplewood Ave & Peterson Ave",
+      "latitude": 41.990236,
+      "longitude": -87.69337,
+      "dpcapacity": 15,
+      "online_date": "5/12/15"
+    },
+    {
+      "id": 465,
+      "name": "Marine Dr & Ainslie St",
+      "latitude": 41.9716,
+      "longitude": -87.650154,
+      "dpcapacity": 23,
+      "online_date": "7/17/15"
+    },
+    {
+      "id": 549,
+      "name": "Marshfield Ave & 44th St",
+      "latitude": 41.813996,
+      "longitude": -87.666589,
+      "dpcapacity": 11,
+      "online_date": "6/16/16"
+    },
+    {
+      "id": 560,
+      "name": "Marshfield Ave & 59th St",
+      "latitude": 41.786833,
+      "longitude": -87.666215,
+      "dpcapacity": 11,
+      "online_date": "6/20/16"
+    },
+    {
+      "id": 58,
+      "name": "Marshfield Ave & Cortland St",
+      "latitude": 41.916017,
+      "longitude": -87.668879,
+      "dpcapacity": 23,
+      "online_date": "6/18/13"
+    },
+    {
+      "id": 544,
+      "name": "Mason Ave & Madison St",
+      "latitude": 41.87998,
+      "longitude": -87.773264,
+      "dpcapacity": 15,
+      "online_date": "6/14/16"
+    },
+    {
+      "id": 567,
+      "name": "May St & 69th St",
+      "latitude": 41.768938,
+      "longitude": -87.652934,
+      "dpcapacity": 11,
+      "online_date": "6/21/16"
+    },
+    {
+      "id": 171,
+      "name": "May St & Cullerton St",
+      "latitude": 41.855136,
+      "longitude": -87.654127,
+      "dpcapacity": 11,
+      "online_date": "7/25/13"
+    },
+    {
+      "id": 217,
+      "name": "May St & Fulton St",
+      "latitude": 41.886773,
+      "longitude": -87.656001,
+      "dpcapacity": 15,
+      "online_date": "8/16/13"
+    },
+    {
+      "id": 88,
+      "name": "May St & Randolph St",
+      "latitude": 41.88397,
+      "longitude": -87.655688,
+      "dpcapacity": 15,
+      "online_date": "6/27/13"
+    },
+    {
+      "id": 22,
+      "name": "May St & Taylor St",
+      "latitude": 41.869482,
+      "longitude": -87.655486,
+      "dpcapacity": 15,
+      "online_date": "6/21/13"
+    },
+    {
+      "id": 142,
+      "name": "McClurg Ct & Erie St",
+      "latitude": 41.894503,
+      "longitude": -87.617854,
+      "dpcapacity": 31,
+      "online_date": "5/8/15"
+    },
+    {
+      "id": 26,
+      "name": "McClurg Ct & Illinois St",
+      "latitude": 41.89102,
+      "longitude": -87.6173,
+      "dpcapacity": 31,
+      "online_date": "6/22/13"
+    },
+    {
+      "id": 62,
+      "name": "McCormick Place",
+      "latitude": 41.851375,
+      "longitude": -87.618835,
+      "dpcapacity": 27,
+      "online_date": "6/18/13"
+    },
+    {
+      "id": 168,
+      "name": "Michigan Ave & 14th St",
+      "latitude": 41.864059,
+      "longitude": -87.623727,
+      "dpcapacity": 19,
+      "online_date": "8/3/13"
+    },
+    {
+      "id": 273,
+      "name": "Michigan Ave & 18th St",
+      "latitude": 41.857813,
+      "longitude": -87.62455,
+      "dpcapacity": 23,
+      "online_date": "9/12/13"
+    },
+    {
+      "id": 45,
+      "name": "Michigan Ave & Congress Pkwy",
+      "latitude": 41.876243,
+      "longitude": -87.624426,
+      "dpcapacity": 15,
+      "online_date": "6/16/13"
+    },
+    {
+      "id": 284,
+      "name": "Michigan Ave & Jackson Blvd",
+      "latitude": 41.87785,
+      "longitude": -87.62408,
+      "dpcapacity": 23,
+      "online_date": "9/14/13"
+    },
+    {
+      "id": 52,
+      "name": "Michigan Ave & Lake St",
+      "latitude": 41.886024,
+      "longitude": -87.624117,
+      "dpcapacity": 31,
+      "online_date": "6/17/13"
+    },
+    {
+      "id": 197,
+      "name": "Michigan Ave & Madison St",
+      "latitude": 41.882134,
+      "longitude": -87.625125,
+      "dpcapacity": 19,
+      "online_date": "8/10/13"
+    },
+    {
+      "id": 85,
+      "name": "Michigan Ave & Oak St",
+      "latitude": 41.90096,
+      "longitude": -87.623777,
+      "dpcapacity": 23,
+      "online_date": "6/21/13"
+    },
+    {
+      "id": 25,
+      "name": "Michigan Ave & Pearson St",
+      "latitude": 41.89766,
+      "longitude": -87.62351,
+      "dpcapacity": 23,
+      "online_date": "6/22/13"
+    },
+    {
+      "id": 43,
+      "name": "Michigan Ave & Washington St",
+      "latitude": 41.883893,
+      "longitude": -87.624649,
+      "dpcapacity": 43,
+      "online_date": "6/16/13"
+    },
+    {
+      "id": 145,
+      "name": "Mies van der Rohe Way & Chestnut St",
+      "latitude": 41.898587,
+      "longitude": -87.621915,
+      "dpcapacity": 19,
+      "online_date": "5/8/15"
+    },
+    {
+      "id": 173,
+      "name": "Mies van der Rohe Way & Chicago Ave",
+      "latitude": 41.89691,
+      "longitude": -87.621743,
+      "dpcapacity": 15,
+      "online_date": "8/1/13"
+    },
+    {
+      "id": 443,
+      "name": "Millard Ave & 26th St",
+      "latitude": 41.844567,
+      "longitude": -87.71591,
+      "dpcapacity": 15,
+      "online_date": "4/29/15"
+    },
+    {
+      "id": 90,
+      "name": "Millennium Park",
+      "latitude": 41.881032,
+      "longitude": -87.624084,
+      "dpcapacity": 35,
+      "online_date": "6/16/13"
+    },
+    {
+      "id": 222,
+      "name": "Milwaukee Ave & Rockwell St",
+      "latitude": 41.920195,
+      "longitude": -87.693033,
+      "dpcapacity": 19,
+      "online_date": "8/22/13"
+    },
+    {
+      "id": 158,
+      "name": "Milwaukee Ave & Wabansia Ave",
+      "latitude": 41.912616,
+      "longitude": -87.681391,
+      "dpcapacity": 15,
+      "online_date": "7/26/13"
+    },
+    {
+      "id": 237,
+      "name": "MLK Jr Dr & 29th St",
+      "latitude": 41.842052,
+      "longitude": -87.617,
+      "dpcapacity": 15,
+      "online_date": "8/21/13"
+    },
+    {
+      "id": 200,
+      "name": "MLK Jr Dr & 47th St",
+      "latitude": 41.809851,
+      "longitude": -87.616279,
+      "dpcapacity": 11,
+      "online_date": "8/14/13"
+    },
+    {
+      "id": 421,
+      "name": "MLK Jr Dr & 56th St",
+      "latitude": 41.793429,
+      "longitude": -87.615853,
+      "dpcapacity": 15,
+      "online_date": "4/20/15"
+    },
+    {
+      "id": 430,
+      "name": "MLK Jr Dr & 63rd St",
+      "latitude": 41.780081,
+      "longitude": -87.615943,
+      "dpcapacity": 15,
+      "online_date": "4/21/15"
+    },
+    {
+      "id": 179,
+      "name": "MLK Jr Dr & Oakwood Blvd",
+      "latitude": 41.82256,
+      "longitude": -87.61615,
+      "dpcapacity": 15,
+      "online_date": "7/24/13"
+    },
+    {
+      "id": 484,
+      "name": "Monticello Ave & Irving Park Rd",
+      "latitude": 41.954005,
+      "longitude": -87.719128,
+      "dpcapacity": 15,
+      "online_date": "5/6/15"
+    },
+    {
+      "id": 249,
+      "name": "Montrose Harbor",
+      "latitude": 41.963982,
+      "longitude": -87.638181,
+      "dpcapacity": 31,
+      "online_date": "8/26/13"
+    },
+    {
+      "id": 137,
+      "name": "Morgan Ave & 14th Pl",
+      "latitude": 41.862378,
+      "longitude": -87.651062,
+      "dpcapacity": 15,
+      "online_date": "7/31/13"
+    },
+    {
+      "id": 14,
+      "name": "Morgan St & 18th St",
+      "latitude": 41.858086,
+      "longitude": -87.651073,
+      "dpcapacity": 15,
+      "online_date": "6/20/13"
+    },
+    {
+      "id": 280,
+      "name": "Morgan St & 31st St",
+      "latitude": 41.8378,
+      "longitude": -87.65114,
+      "dpcapacity": 11,
+      "online_date": "9/13/13"
+    },
+    {
+      "id": 71,
+      "name": "Morgan St & Lake St",
+      "latitude": 41.885483,
+      "longitude": -87.652305,
+      "dpcapacity": 15,
+      "online_date": "6/24/13"
+    },
+    {
+      "id": 548,
+      "name": "Morgan St & Pershing Rd",
+      "latitude": 41.823613,
+      "longitude": -87.650931,
+      "dpcapacity": 11,
+      "online_date": "6/16/16"
+    },
+    {
+      "id": 241,
+      "name": "Morgan St & Polk St",
+      "latitude": 41.871737,
+      "longitude": -87.65103,
+      "dpcapacity": 15,
+      "online_date": "8/22/13"
+    },
+    {
+      "id": 97,
+      "name": "Museum Campus",
+      "latitude": 41.865212,
+      "longitude": -87.617759,
+      "dpcapacity": 35,
+      "online_date": "6/26/13"
+    },
+    {
+      "id": 424,
+      "name": "Museum of Science and Industry",
+      "latitude": 41.791728,
+      "longitude": -87.583945,
+      "dpcapacity": 27,
+      "online_date": "4/17/15"
+    },
+    {
+      "id": 29,
+      "name": "Noble St & Milwaukee Ave",
+      "latitude": 41.90068,
+      "longitude": -87.6626,
+      "dpcapacity": 15,
+      "online_date": "6/22/13"
+    },
+    {
+      "id": 568,
+      "name": "Normal Ave & 72nd St",
+      "latitude": 41.763462,
+      "longitude": -87.637297,
+      "dpcapacity": 11,
+      "online_date": "6/23/16"
+    },
+    {
+      "id": 209,
+      "name": "Normal Ave & Archer Ave",
+      "latitude": 41.849527,
+      "longitude": -87.640591,
+      "dpcapacity": 11,
+      "online_date": "8/15/13"
+    },
+    {
+      "id": 486,
+      "name": "Oakley Ave & Irving Park Rd",
+      "latitude": 41.954341,
+      "longitude": -87.68608,
+      "dpcapacity": 15,
+      "online_date": "5/13/15"
+    },
+    {
+      "id": 54,
+      "name": "Ogden Ave & Chicago Ave",
+      "latitude": 41.896362,
+      "longitude": -87.654061,
+      "dpcapacity": 19,
+      "online_date": "6/17/13"
+    },
+    {
+      "id": 122,
+      "name": "Ogden Ave & Congress Pkwy",
+      "latitude": 41.87501,
+      "longitude": -87.67328,
+      "dpcapacity": 15,
+      "online_date": "7/28/13"
+    },
+    {
+      "id": 186,
+      "name": "Ogden Ave & Race Ave",
+      "latitude": 41.891795,
+      "longitude": -87.658751,
+      "dpcapacity": 15,
+      "online_date": "7/28/13"
+    },
+    {
+      "id": 434,
+      "name": "Ogden Ave & Roosevelt Rd",
+      "latitude": 41.866501,
+      "longitude": -87.684697,
+      "dpcapacity": 19,
+      "online_date": "4/27/15"
+    },
+    {
+      "id": 23,
+      "name": "Orleans St & Elm St",
+      "latitude": 41.902924,
+      "longitude": -87.637715,
+      "dpcapacity": 15,
+      "online_date": "6/21/13"
+    },
+    {
+      "id": 100,
+      "name": "Orleans St & Merchandise Mart Plaza",
+      "latitude": 41.888243,
+      "longitude": -87.63639,
+      "dpcapacity": 23,
+      "online_date": "7/16/13"
+    },
+    {
+      "id": 16,
+      "name": "Paulina Ave & North Ave",
+      "latitude": 41.910337,
+      "longitude": -87.670072,
+      "dpcapacity": 11,
+      "online_date": "8/12/13"
+    },
+    {
+      "id": 205,
+      "name": "Paulina St & 18th St",
+      "latitude": 41.857901,
+      "longitude": -87.668745,
+      "dpcapacity": 15,
+      "online_date": "8/15/13"
+    },
+    {
+      "id": 297,
+      "name": "Paulina St & Montrose Ave",
+      "latitude": 41.961507,
+      "longitude": -87.671387,
+      "dpcapacity": 15,
+      "online_date": "9/18/13"
+    },
+    {
+      "id": 134,
+      "name": "Peoria St & Jackson Blvd",
+      "latitude": 41.877749,
+      "longitude": -87.649633,
+      "dpcapacity": 19,
+      "online_date": "7/25/13"
+    },
+    {
+      "id": 392,
+      "name": "Perry Ave & 69th St",
+      "latitude": 41.769293,
+      "longitude": -87.628196,
+      "dpcapacity": 15,
+      "online_date": "5/7/15"
+    },
+    {
+      "id": 254,
+      "name": "Pine Grove Ave & Irving Park Rd",
+      "latitude": 41.954383,
+      "longitude": -87.648043,
+      "dpcapacity": 15,
+      "online_date": "9/9/13"
+    },
+    {
+      "id": 232,
+      "name": "Pine Grove Ave & Waveland Ave",
+      "latitude": 41.949275,
+      "longitude": -87.646303,
+      "dpcapacity": 23,
+      "online_date": "8/21/13"
+    },
+    {
+      "id": 410,
+      "name": "Prairie Ave & 43rd St",
+      "latitude": 41.816659,
+      "longitude": -87.619412,
+      "dpcapacity": 19,
+      "online_date": "4/15/15"
+    },
+    {
+      "id": 204,
+      "name": "Prairie Ave & Garfield Blvd",
+      "latitude": 41.794853,
+      "longitude": -87.618691,
+      "dpcapacity": 15,
+      "online_date": "8/14/13"
+    },
+    {
+      "id": 412,
+      "name": "Princeton Ave & 47th St",
+      "latitude": 41.809318,
+      "longitude": -87.633449,
+      "dpcapacity": 19,
+      "online_date": "4/15/15"
+    },
+    {
+      "id": 385,
+      "name": "Princeton Ave & Garfield Blvd",
+      "latitude": 41.794982,
+      "longitude": -87.633124,
+      "dpcapacity": 15,
+      "online_date": "4/24/15"
+    },
+    {
+      "id": 535,
+      "name": "Pulaski Rd & Congress Pkwy",
+      "latitude": 41.874325,
+      "longitude": -87.725704,
+      "dpcapacity": 15,
+      "online_date": "6/15/16"
+    },
+    {
+      "id": 488,
+      "name": "Pulaski Rd & Eddy St",
+      "latitude": 41.945636,
+      "longitude": -87.727737,
+      "dpcapacity": 15,
+      "online_date": "5/13/15"
+    },
+    {
+      "id": 528,
+      "name": "Pulaski Rd & Lake St",
+      "latitude": 41.885409,
+      "longitude": -87.726491,
+      "dpcapacity": 15,
+      "online_date": "6/15/16"
+    },
+    {
+      "id": 534,
+      "name": "Pulaski Rd & Madison St",
+      "latitude": 41.880827,
+      "longitude": -87.726279,
+      "dpcapacity": 15,
+      "online_date": "6/13/16"
+    },
+    {
+      "id": 136,
+      "name": "Racine Ave & 13th St",
+      "latitude": 41.865054,
+      "longitude": -87.656959,
+      "dpcapacity": 15,
+      "online_date": "7/31/13"
+    },
+    {
+      "id": 274,
+      "name": "Racine Ave & 15th St",
+      "latitude": 41.861267,
+      "longitude": -87.656625,
+      "dpcapacity": 15,
+      "online_date": "9/12/13"
+    },
+    {
+      "id": 15,
+      "name": "Racine Ave & 18th St",
+      "latitude": 41.858166,
+      "longitude": -87.656495,
+      "dpcapacity": 15,
+      "online_date": "6/20/13"
+    },
+    {
+      "id": 367,
+      "name": "Racine Ave & 35th St",
+      "latitude": 41.830696,
+      "longitude": -87.655976,
+      "dpcapacity": 15,
+      "online_date": "4/13/15"
+    },
+    {
+      "id": 562,
+      "name": "Racine Ave & 61st St",
+      "latitude": 41.783189,
+      "longitude": -87.654372,
+      "dpcapacity": 11,
+      "online_date": "6/20/16"
+    },
+    {
+      "id": 564,
+      "name": "Racine Ave & 65th St",
+      "latitude": 41.775393,
+      "longitude": -87.654308,
+      "dpcapacity": 11,
+      "online_date": "6/21/16"
+    },
+    {
+      "id": 226,
+      "name": "Racine Ave & Belmont Ave",
+      "latitude": 41.939743,
+      "longitude": -87.658865,
+      "dpcapacity": 15,
+      "online_date": "8/19/13"
+    },
+    {
+      "id": 32,
+      "name": "Racine Ave & Congress Pkwy",
+      "latitude": 41.87464,
+      "longitude": -87.65703,
+      "dpcapacity": 19,
+      "online_date": "6/21/13"
+    },
+    {
+      "id": 87,
+      "name": "Racine Ave & Fullerton Ave",
+      "latitude": 41.925563,
+      "longitude": -87.658404,
+      "dpcapacity": 19,
+      "online_date": "6/26/13"
+    },
+    {
+      "id": 559,
+      "name": "Racine Ave & Garfield Blvd",
+      "latitude": 41.794694,
+      "longitude": -87.654947,
+      "dpcapacity": 11,
+      "online_date": "6/20/16"
+    },
+    {
+      "id": 343,
+      "name": "Racine Ave & Wrightwood Ave",
+      "latitude": 41.928887,
+      "longitude": -87.658971,
+      "dpcapacity": 15,
+      "online_date": "10/24/13"
+    },
+    {
+      "id": 398,
+      "name": "Rainbow Beach",
+      "latitude": 41.757871,
+      "longitude": -87.549386,
+      "dpcapacity": 19,
+      "online_date": "4/23/15"
+    },
+    {
+      "id": 462,
+      "name": "Ravenswood Ave & Balmoral Ave",
+      "latitude": 41.97977,
+      "longitude": -87.675815,
+      "dpcapacity": 15,
+      "online_date": "5/14/15"
+    },
+    {
+      "id": 314,
+      "name": "Ravenswood Ave & Berteau Ave",
+      "latitude": 41.957921,
+      "longitude": -87.673567,
+      "dpcapacity": 15,
+      "online_date": "9/27/13"
+    },
+    {
+      "id": 244,
+      "name": "Ravenswood Ave & Irving Park Rd",
+      "latitude": 41.95469,
+      "longitude": -87.67393,
+      "dpcapacity": 19,
+      "online_date": "8/22/13"
+    },
+    {
+      "id": 344,
+      "name": "Ravenswood Ave & Lawrence Ave",
+      "latitude": 41.96909,
+      "longitude": -87.674237,
+      "dpcapacity": 39,
+      "online_date": "10/9/13"
+    },
+    {
+      "id": 238,
+      "name": "Ravenswood Ave & Montrose Ave",
+      "latitude": 41.961615,
+      "longitude": -87.674365,
+      "dpcapacity": 15,
+      "online_date": "8/22/13"
+    },
+    {
+      "id": 263,
+      "name": "Rhodes Ave & 32nd St",
+      "latitude": 41.836208,
+      "longitude": -87.613533,
+      "dpcapacity": 11,
+      "online_date": "9/17/13"
+    },
+    {
+      "id": 501,
+      "name": "Richmond St & Diversey Ave",
+      "latitude": 41.931902,
+      "longitude": -87.701195,
+      "dpcapacity": 15,
+      "online_date": "5/5/15"
+    },
+    {
+      "id": 466,
+      "name": "Ridge Blvd & Touhy Ave",
+      "latitude": 42.012132,
+      "longitude": -87.682913,
+      "dpcapacity": 15,
+      "online_date": "5/15/15"
+    },
+    {
+      "id": 180,
+      "name": "Ritchie Ct & Banks St",
+      "latitude": 41.906782,
+      "longitude": -87.626402,
+      "dpcapacity": 15,
+      "online_date": "5/9/15"
+    },
+    {
+      "id": 478,
+      "name": "Rockwell St & Eastwood Ave",
+      "latitude": 41.9659,
+      "longitude": -87.693638,
+      "dpcapacity": 15,
+      "online_date": "5/5/15"
+    },
+    {
+      "id": 172,
+      "name": "Rush St & Cedar St",
+      "latitude": 41.902309,
+      "longitude": -87.627691,
+      "dpcapacity": 11,
+      "online_date": "5/9/15"
+    },
+    {
+      "id": 125,
+      "name": "Rush St & Hubbard St",
+      "latitude": 41.890011,
+      "longitude": -87.626293,
+      "dpcapacity": 15,
+      "online_date": "5/8/15"
+    },
+    {
+      "id": 161,
+      "name": "Rush St & Superior St",
+      "latitude": 41.895765,
+      "longitude": -87.625908,
+      "dpcapacity": 23,
+      "online_date": "5/9/15"
+    },
+    {
+      "id": 375,
+      "name": "Sacramento Blvd & Franklin Blvd",
+      "latitude": 41.889727,
+      "longitude": -87.70103,
+      "dpcapacity": 15,
+      "online_date": "4/30/15"
+    },
+    {
+      "id": 397,
+      "name": "Saginaw Ave & Exchange Ave",
+      "latitude": 41.758746,
+      "longitude": -87.560115,
+      "dpcapacity": 11,
+      "online_date": "4/23/15"
+    },
+    {
+      "id": 233,
+      "name": "Sangamon St & Washington Blvd",
+      "latitude": 41.883004,
+      "longitude": -87.651148,
+      "dpcapacity": 15,
+      "online_date": "8/29/13"
+    },
+    {
+      "id": 485,
+      "name": "Sawyer Ave & Irving Park Rd",
+      "latitude": 41.953586,
+      "longitude": -87.709311,
+      "dpcapacity": 15,
+      "online_date": "5/4/15"
+    },
+    {
+      "id": 111,
+      "name": "Sedgwick St & Huron St",
+      "latitude": 41.894666,
+      "longitude": -87.638437,
+      "dpcapacity": 19,
+      "online_date": "8/1/13"
+    },
+    {
+      "id": 118,
+      "name": "Sedgwick St & North Ave",
+      "latitude": 41.911386,
+      "longitude": -87.638677,
+      "dpcapacity": 19,
+      "online_date": "8/1/13"
+    },
+    {
+      "id": 236,
+      "name": "Sedgwick St & Schiller St",
+      "latitude": 41.907576,
+      "longitude": -87.638517,
+      "dpcapacity": 15,
+      "online_date": "8/21/13"
+    },
+    {
+      "id": 143,
+      "name": "Sedgwick St & Webster Ave",
+      "latitude": 41.922167,
+      "longitude": -87.638888,
+      "dpcapacity": 15,
+      "online_date": "8/3/13"
+    },
+    {
+      "id": 308,
+      "name": "Seeley Ave & Roscoe St",
+      "latitude": 41.943403,
+      "longitude": -87.679618,
+      "dpcapacity": 11,
+      "online_date": "9/27/13"
+    },
+    {
+      "id": 3,
+      "name": "Shedd Aquarium",
+      "latitude": 41.867226,
+      "longitude": -87.615355,
+      "dpcapacity": 31,
+      "online_date": "4/24/15"
+    },
+    {
+      "id": 114,
+      "name": "Sheffield Ave & Addison St",
+      "latitude": 41.946966,
+      "longitude": -87.654242,
+      "dpcapacity": 27,
+      "online_date": "8/2/13"
+    },
+    {
+      "id": 67,
+      "name": "Sheffield Ave & Fullerton Ave",
+      "latitude": 41.925602,
+      "longitude": -87.653708,
+      "dpcapacity": 19,
+      "online_date": "6/20/13"
+    },
+    {
+      "id": 20,
+      "name": "Sheffield Ave & Kingsbury St",
+      "latitude": 41.910522,
+      "longitude": -87.653106,
+      "dpcapacity": 15,
+      "online_date": "6/21/13"
+    },
+    {
+      "id": 327,
+      "name": "Sheffield Ave & Webster Ave",
+      "latitude": 41.92154,
+      "longitude": -87.653818,
+      "dpcapacity": 19,
+      "online_date": "9/25/13"
+    },
+    {
+      "id": 115,
+      "name": "Sheffield Ave & Wellington Ave",
+      "latitude": 41.936253,
+      "longitude": -87.653566,
+      "dpcapacity": 23,
+      "online_date": "7/22/13"
+    },
+    {
+      "id": 93,
+      "name": "Sheffield Ave & Willow St",
+      "latitude": 41.913688,
+      "longitude": -87.652855,
+      "dpcapacity": 15,
+      "online_date": "6/27/13"
+    },
+    {
+      "id": 302,
+      "name": "Sheffield Ave & Wrightwood Ave",
+      "latitude": 41.928712,
+      "longitude": -87.653833,
+      "dpcapacity": 19,
+      "online_date": "9/20/13"
+    },
+    {
+      "id": 306,
+      "name": "Sheridan Rd & Buena Ave",
+      "latitude": 41.958494,
+      "longitude": -87.654966,
+      "dpcapacity": 15,
+      "online_date": "9/23/13"
+    },
+    {
+      "id": 354,
+      "name": "Sheridan Rd & Greenleaf Ave",
+      "latitude": 42.010587,
+      "longitude": -87.662412,
+      "dpcapacity": 15,
+      "online_date": "5/15/15"
+    },
+    {
+      "id": 240,
+      "name": "Sheridan Rd & Irving Park Rd",
+      "latitude": 41.954245,
+      "longitude": -87.654406,
+      "dpcapacity": 23,
+      "online_date": "8/21/13"
+    },
+    {
+      "id": 323,
+      "name": "Sheridan Rd & Lawrence Ave",
+      "latitude": 41.969517,
+      "longitude": -87.654691,
+      "dpcapacity": 15,
+      "online_date": "9/23/13"
+    },
+    {
+      "id": 451,
+      "name": "Sheridan Rd & Loyola Ave",
+      "latitude": 42.001044,
+      "longitude": -87.661198,
+      "dpcapacity": 15,
+      "online_date": "5/15/15"
+    },
+    {
+      "id": 231,
+      "name": "Sheridan Rd & Montrose Ave",
+      "latitude": 41.96167,
+      "longitude": -87.65464,
+      "dpcapacity": 15,
+      "online_date": "8/20/13"
+    },
+    {
+      "id": 401,
+      "name": "Shields Ave & 28th Pl",
+      "latitude": 41.842733,
+      "longitude": -87.635491,
+      "dpcapacity": 11,
+      "online_date": "5/7/15"
+    },
+    {
+      "id": 402,
+      "name": "Shields Ave & 31st St",
+      "latitude": 41.838464,
+      "longitude": -87.635406,
+      "dpcapacity": 15,
+      "online_date": "4/14/15"
+    },
+    {
+      "id": 409,
+      "name": "Shields Ave & 43rd St",
+      "latitude": 41.816208,
+      "longitude": -87.634819,
+      "dpcapacity": 15,
+      "online_date": "4/15/15"
+    },
+    {
+      "id": 247,
+      "name": "Shore Dr & 55th St",
+      "latitude": 41.795212,
+      "longitude": -87.580715,
+      "dpcapacity": 19,
+      "online_date": "8/23/13"
+    },
+    {
+      "id": 355,
+      "name": "South Shore Dr & 67th St",
+      "latitude": 41.773669,
+      "longitude": -87.567339,
+      "dpcapacity": 19,
+      "online_date": "4/22/15"
+    },
+    {
+      "id": 12,
+      "name": "South Shore Dr & 71st St",
+      "latitude": 41.766409,
+      "longitude": -87.565688,
+      "dpcapacity": 15,
+      "online_date": "4/22/15"
+    },
+    {
+      "id": 399,
+      "name": "South Shore Dr & 74th St",
+      "latitude": 41.762189,
+      "longitude": -87.559275,
+      "dpcapacity": 11,
+      "online_date": "4/23/15"
+    },
+    {
+      "id": 154,
+      "name": "Southport Ave & Belmont Ave",
+      "latitude": 41.93949,
+      "longitude": -87.66378,
+      "dpcapacity": 15,
+      "online_date": "7/29/13"
+    },
+    {
+      "id": 292,
+      "name": "Southport Ave & Clark St",
+      "latitude": 41.957081,
+      "longitude": -87.664199,
+      "dpcapacity": 11,
+      "online_date": "9/14/13"
+    },
+    {
+      "id": 307,
+      "name": "Southport Ave & Clybourn Ave",
+      "latitude": 41.920771,
+      "longitude": -87.663712,
+      "dpcapacity": 15,
+      "online_date": "9/25/13"
+    },
+    {
+      "id": 318,
+      "name": "Southport Ave & Irving Park Rd",
+      "latitude": 41.954177,
+      "longitude": -87.664358,
+      "dpcapacity": 15,
+      "online_date": "9/21/13"
+    },
+    {
+      "id": 229,
+      "name": "Southport Ave & Roscoe St",
+      "latitude": 41.943739,
+      "longitude": -87.66402,
+      "dpcapacity": 19,
+      "online_date": "8/29/13"
+    },
+    {
+      "id": 227,
+      "name": "Southport Ave & Waveland Ave",
+      "latitude": 41.94815,
+      "longitude": -87.66394,
+      "dpcapacity": 15,
+      "online_date": "8/20/13"
+    },
+    {
+      "id": 153,
+      "name": "Southport Ave & Wellington Ave",
+      "latitude": 41.935733,
+      "longitude": -87.663576,
+      "dpcapacity": 19,
+      "online_date": "7/25/13"
+    },
+    {
+      "id": 190,
+      "name": "Southport Ave & Wrightwood Ave",
+      "latitude": 41.928773,
+      "longitude": -87.663913,
+      "dpcapacity": 15,
+      "online_date": "8/6/13"
+    },
+    {
+      "id": 506,
+      "name": "Spaulding Ave & Armitage Ave",
+      "latitude": 41.917184,
+      "longitude": -87.710357,
+      "dpcapacity": 15,
+      "online_date": "4/30/15"
+    },
+    {
+      "id": 510,
+      "name": "Spaulding Ave & Division St",
+      "latitude": 41.902707,
+      "longitude": -87.70922,
+      "dpcapacity": 15,
+      "online_date": "4/30/15"
+    },
+    {
+      "id": 211,
+      "name": "St. Clair St & Erie St",
+      "latitude": 41.894448,
+      "longitude": -87.622663,
+      "dpcapacity": 19,
+      "online_date": "8/15/13"
+    },
+    {
+      "id": 469,
+      "name": "St. Louis Ave & Balmoral Ave",
+      "latitude": 41.980394,
+      "longitude": -87.716115,
+      "dpcapacity": 15,
+      "online_date": "5/16/15"
+    },
+    {
+      "id": 178,
+      "name": "State St & 19th St",
+      "latitude": 41.856594,
+      "longitude": -87.627542,
+      "dpcapacity": 15,
+      "online_date": "7/22/13"
+    },
+    {
+      "id": 193,
+      "name": "State St & 29th St",
+      "latitude": 41.841707,
+      "longitude": -87.626938,
+      "dpcapacity": 15,
+      "online_date": "8/23/13"
+    },
+    {
+      "id": 148,
+      "name": "State St & 33rd St",
+      "latitude": 41.834734,
+      "longitude": -87.625813,
+      "dpcapacity": 11,
+      "online_date": "8/27/13"
+    },
+    {
+      "id": 184,
+      "name": "State St & 35th St",
+      "latitude": 41.83104,
+      "longitude": -87.62688,
+      "dpcapacity": 19,
+      "online_date": "8/3/13"
+    },
+    {
+      "id": 572,
+      "name": "State St & 76th St",
+      "latitude": 41.756971,
+      "longitude": -87.624621,
+      "dpcapacity": 11,
+      "online_date": "6/23/16"
+    },
+    {
+      "id": 5,
+      "name": "State St & Harrison St",
+      "latitude": 41.874053,
+      "longitude": -87.627716,
+      "dpcapacity": 23,
+      "online_date": "6/18/13"
+    },
+    {
+      "id": 47,
+      "name": "State St & Kinzie St",
+      "latitude": 41.88918,
+      "longitude": -87.6277,
+      "dpcapacity": 23,
+      "online_date": "6/18/13"
+    },
+    {
+      "id": 106,
+      "name": "State St & Pearson St",
+      "latitude": 41.897448,
+      "longitude": -87.628722,
+      "dpcapacity": 27,
+      "online_date": "8/1/13"
+    },
+    {
+      "id": 407,
+      "name": "State St & Pershing Rd",
+      "latitude": 41.823015,
+      "longitude": -87.626568,
+      "dpcapacity": 19,
+      "online_date": "4/14/15"
+    },
+    {
+      "id": 44,
+      "name": "State St & Randolph St",
+      "latitude": 41.88473,
+      "longitude": -87.627734,
+      "dpcapacity": 27,
+      "online_date": "6/16/13"
+    },
+    {
+      "id": 33,
+      "name": "State St & Van Buren St",
+      "latitude": 41.877181,
+      "longitude": -87.627844,
+      "dpcapacity": 27,
+      "online_date": "6/25/13"
+    },
+    {
+      "id": 185,
+      "name": "Stave St & Armitage Ave",
+      "latitude": 41.917741,
+      "longitude": -87.691392,
+      "dpcapacity": 11,
+      "online_date": "7/26/13"
+    },
+    {
+      "id": 264,
+      "name": "Stetson Ave & South Water St",
+      "latitude": 41.886835,
+      "longitude": -87.62232,
+      "dpcapacity": 19,
+      "online_date": "9/18/13"
+    },
+    {
+      "id": 324,
+      "name": "Stockton Dr & Wrightwood Ave",
+      "latitude": 41.93132,
+      "longitude": -87.638742,
+      "dpcapacity": 15,
+      "online_date": "10/3/13"
+    },
+    {
+      "id": 95,
+      "name": "Stony Island Ave & 64th St",
+      "latitude": 41.778701,
+      "longitude": -87.586788,
+      "dpcapacity": 15,
+      "online_date": "5/7/15"
+    },
+    {
+      "id": 102,
+      "name": "Stony Island Ave & 67th St",
+      "latitude": 41.773458,
+      "longitude": -87.58534,
+      "dpcapacity": 11,
+      "online_date": "4/22/15"
+    },
+    {
+      "id": 356,
+      "name": "Stony Island Ave & 71st St",
+      "latitude": 41.766493,
+      "longitude": -87.586461,
+      "dpcapacity": 11,
+      "online_date": "4/22/15"
+    },
+    {
+      "id": 270,
+      "name": "Stony Island Ave & 75th St",
+      "latitude": 41.75867,
+      "longitude": -87.586883,
+      "dpcapacity": 15,
+      "online_date": "4/24/15"
+    },
+    {
+      "id": 35,
+      "name": "Streeter Dr & Grand Ave",
+      "latitude": 41.892278,
+      "longitude": -87.612043,
+      "dpcapacity": 47,
+      "online_date": "8/5/13"
+    },
+    {
+      "id": 491,
+      "name": "Talman Ave & Addison St",
+      "latitude": 41.946636,
+      "longitude": -87.694615,
+      "dpcapacity": 15,
+      "online_date": "5/4/15"
+    },
+    {
+      "id": 177,
+      "name": "Theater on the Lake",
+      "latitude": 41.926277,
+      "longitude": -87.630834,
+      "dpcapacity": 23,
+      "online_date": "8/13/13"
+    },
+    {
+      "id": 556,
+      "name": "Throop St & 52nd St",
+      "latitude": 41.799659,
+      "longitude": -87.657195,
+      "dpcapacity": 11,
+      "online_date": "6/17/16"
+    },
+    {
+      "id": 490,
+      "name": "Troy St & Elston Ave",
+      "latitude": 41.945244,
+      "longitude": -87.70665,
+      "dpcapacity": 15,
+      "online_date": "5/4/15"
+    },
+    {
+      "id": 509,
+      "name": "Troy St & North Ave",
+      "latitude": 41.909769,
+      "longitude": -87.70528,
+      "dpcapacity": 15,
+      "online_date": "4/30/15"
+    },
+    {
+      "id": 408,
+      "name": "Union Ave & 42nd St",
+      "latitude": 41.817638,
+      "longitude": -87.643565,
+      "dpcapacity": 15,
+      "online_date": "4/15/15"
+    },
+    {
+      "id": 84,
+      "name": "Union Ave & Grand Ave",
+      "latitude": 41.891,
+      "longitude": -87.645925,
+      "dpcapacity": 19,
+      "online_date": "6/26/13"
+    },
+    {
+      "id": 423,
+      "name": "University Ave & 57th St",
+      "latitude": 41.791478,
+      "longitude": -87.599861,
+      "dpcapacity": 19,
+      "online_date": "4/17/15"
+    },
+    {
+      "id": 72,
+      "name": "Wabash Ave & 16th St",
+      "latitude": 41.860384,
+      "longitude": -87.625813,
+      "dpcapacity": 15,
+      "online_date": "6/24/13"
+    },
+    {
+      "id": 321,
+      "name": "Wabash Ave & 8th St",
+      "latitude": 41.871962,
+      "longitude": -87.626106,
+      "dpcapacity": 19,
+      "online_date": "9/21/13"
+    },
+    {
+      "id": 39,
+      "name": "Wabash Ave & Adams St",
+      "latitude": 41.879472,
+      "longitude": -87.625689,
+      "dpcapacity": 23,
+      "online_date": "4/18/15"
+    },
+    {
+      "id": 42,
+      "name": "Wabash Ave & Cermak Rd",
+      "latitude": 41.852619,
+      "longitude": -87.626488,
+      "dpcapacity": 11,
+      "online_date": "6/18/13"
+    },
+    {
+      "id": 199,
+      "name": "Wabash Ave & Grand Ave",
+      "latitude": 41.891738,
+      "longitude": -87.626937,
+      "dpcapacity": 15,
+      "online_date": "8/10/13"
+    },
+    {
+      "id": 59,
+      "name": "Wabash Ave & Roosevelt Rd",
+      "latitude": 41.867227,
+      "longitude": -87.625961,
+      "dpcapacity": 23,
+      "online_date": "6/18/13"
+    },
+    {
+      "id": 194,
+      "name": "Wabash Ave & Wacker Pl",
+      "latitude": 41.886875,
+      "longitude": -87.62603,
+      "dpcapacity": 19,
+      "online_date": "8/10/13"
+    },
+    {
+      "id": 18,
+      "name": "Wacker Dr & Washington St",
+      "latitude": 41.883272,
+      "longitude": -87.637313,
+      "dpcapacity": 19,
+      "online_date": "4/18/15"
+    },
+    {
+      "id": 278,
+      "name": "Wallace St & 35th St",
+      "latitude": 41.830629,
+      "longitude": -87.64129,
+      "dpcapacity": 15,
+      "online_date": "9/13/13"
+    },
+    {
+      "id": 448,
+      "name": "Warren Park East",
+      "latitude": 42.00455,
+      "longitude": -87.680666,
+      "dpcapacity": 15,
+      "online_date": "5/12/15"
+    },
+    {
+      "id": 450,
+      "name": "Warren Park West",
+      "latitude": 42.002007,
+      "longitude": -87.689726,
+      "dpcapacity": 15,
+      "online_date": "5/12/15"
+    },
+    {
+      "id": 437,
+      "name": "Washtenaw Ave & 15th St",
+      "latitude": 41.86148,
+      "longitude": -87.693374,
+      "dpcapacity": 19,
+      "online_date": "5/28/15"
+    },
+    {
+      "id": 475,
+      "name": "Washtenaw Ave & Lawrence Ave",
+      "latitude": 41.968711,
+      "longitude": -87.69617,
+      "dpcapacity": 15,
+      "online_date": "5/5/15"
+    },
+    {
+      "id": 218,
+      "name": "Wells St & 19th St",
+      "latitude": 41.856802,
+      "longitude": -87.633879,
+      "dpcapacity": 11,
+      "online_date": "8/23/13"
+    },
+    {
+      "id": 289,
+      "name": "Wells St & Concord Ln",
+      "latitude": 41.912133,
+      "longitude": -87.634656,
+      "dpcapacity": 19,
+      "online_date": "9/14/13"
+    },
+    {
+      "id": 182,
+      "name": "Wells St & Elm St",
+      "latitude": 41.903222,
+      "longitude": -87.634324,
+      "dpcapacity": 23,
+      "online_date": "6/16/15"
+    },
+    {
+      "id": 291,
+      "name": "Wells St & Evergreen Ave",
+      "latitude": 41.906724,
+      "longitude": -87.63483,
+      "dpcapacity": 19,
+      "online_date": "9/14/13"
+    },
+    {
+      "id": 212,
+      "name": "Orleans St & Ohio St",
+      "latitude": 41.892154,
+      "longitude": -87.636928,
+      "dpcapacity": 23,
+      "online_date": "8/16/13"
+    },
+    {
+      "id": 53,
+      "name": "Wells St & Huron St",
+      "latitude": 41.894729,
+      "longitude": -87.633775,
+      "dpcapacity": 19,
+      "online_date": "6/17/13"
+    },
+    {
+      "id": 175,
+      "name": "Wells St & Polk St",
+      "latitude": 41.872373,
+      "longitude": -87.633523,
+      "dpcapacity": 19,
+      "online_date": "8/3/13"
+    },
+    {
+      "id": 46,
+      "name": "Wells St & Walton St",
+      "latitude": 41.89993,
+      "longitude": -87.63443,
+      "dpcapacity": 19,
+      "online_date": "6/14/13"
+    },
+    {
+      "id": 132,
+      "name": "Wentworth Ave & 24th St",
+      "latitude": 41.849237,
+      "longitude": -87.631715,
+      "dpcapacity": 15,
+      "online_date": "9/5/13"
+    },
+    {
+      "id": 403,
+      "name": "Wentworth Ave & 33rd St",
+      "latitude": 41.83453,
+      "longitude": -87.631823,
+      "dpcapacity": 15,
+      "online_date": "4/14/15"
+    },
+    {
+      "id": 390,
+      "name": "Wentworth Ave & 63rd St",
+      "latitude": 41.78008,
+      "longitude": -87.629746,
+      "dpcapacity": 15,
+      "online_date": "5/18/15"
+    },
+    {
+      "id": 120,
+      "name": "Wentworth Ave & Archer Ave",
+      "latitude": 41.853605,
+      "longitude": -87.631886,
+      "dpcapacity": 23,
+      "online_date": "8/6/13"
+    },
+    {
+      "id": 203,
+      "name": "Western Ave & 21st St",
+      "latitude": 41.85394,
+      "longitude": -87.685243,
+      "dpcapacity": 15,
+      "online_date": "8/15/13"
+    },
+    {
+      "id": 281,
+      "name": "Western Ave & 24th St",
+      "latitude": 41.84847,
+      "longitude": -87.685109,
+      "dpcapacity": 15,
+      "online_date": "9/13/13"
+    },
+    {
+      "id": 446,
+      "name": "Western Ave & 28th St",
+      "latitude": 41.841518,
+      "longitude": -87.685131,
+      "dpcapacity": 15,
+      "online_date": "5/21/15"
+    },
+    {
+      "id": 382,
+      "name": "Western Ave & Congress Pkwy",
+      "latitude": 41.874749,
+      "longitude": -87.686445,
+      "dpcapacity": 19,
+      "online_date": "4/27/15"
+    },
+    {
+      "id": 305,
+      "name": "Western Ave & Division St",
+      "latitude": 41.902893,
+      "longitude": -87.687275,
+      "dpcapacity": 15,
+      "online_date": "9/21/13"
+    },
+    {
+      "id": 452,
+      "name": "Western Ave & Granville Ave",
+      "latitude": 41.994161,
+      "longitude": -87.689438,
+      "dpcapacity": 15,
+      "online_date": "5/12/15"
+    },
+    {
+      "id": 239,
+      "name": "Western Ave & Leland Ave",
+      "latitude": 41.966555,
+      "longitude": -87.688487,
+      "dpcapacity": 19,
+      "online_date": "8/21/13"
+    },
+    {
+      "id": 467,
+      "name": "Western Ave & Lunt Ave",
+      "latitude": 42.008594,
+      "longitude": -87.690492,
+      "dpcapacity": 15,
+      "online_date": "5/15/15"
+    },
+    {
+      "id": 381,
+      "name": "Western Ave & Monroe St",
+      "latitude": 41.879788,
+      "longitude": -87.686113,
+      "dpcapacity": 15,
+      "online_date": "4/27/15"
+    },
+    {
+      "id": 493,
+      "name": "Western Ave & Roscoe St",
+      "latitude": 41.943026,
+      "longitude": -87.687395,
+      "dpcapacity": 15,
+      "online_date": "5/4/15"
+    },
+    {
+      "id": 374,
+      "name": "Western Ave & Walton St",
+      "latitude": 41.898418,
+      "longitude": -87.686596,
+      "dpcapacity": 15,
+      "online_date": "4/27/15"
+    },
+    {
+      "id": 116,
+      "name": "Western Ave & Winnebago Ave",
+      "latitude": 41.915533,
+      "longitude": -87.687051,
+      "dpcapacity": 15,
+      "online_date": "7/26/13"
+    },
+    {
+      "id": 594,
+      "name": "Western Blvd & 48th Pl",
+      "latitude": 41.805661,
+      "longitude": -87.683392,
+      "dpcapacity": 15,
+      "online_date": "6/17/16"
+    },
+    {
+      "id": 117,
+      "name": "Wilton Ave & Belmont Ave",
+      "latitude": 41.94018,
+      "longitude": -87.65304,
+      "dpcapacity": 23,
+      "online_date": "8/2/13"
+    },
+    {
+      "id": 13,
+      "name": "Wilton Ave & Diversey Pkwy",
+      "latitude": 41.932418,
+      "longitude": -87.652705,
+      "dpcapacity": 27,
+      "online_date": "6/20/13"
+    },
+    {
+      "id": 505,
+      "name": "Winchester Ave & Elston Ave",
+      "latitude": 41.924091,
+      "longitude": -87.67646,
+      "dpcapacity": 15,
+      "online_date": "5/7/15"
+    },
+    {
+      "id": 342,
+      "name": "Wolcott Ave & Polk St",
+      "latitude": 41.871262,
+      "longitude": -87.673688,
+      "dpcapacity": 15,
+      "online_date": "10/12/13"
+    },
+    {
+      "id": 369,
+      "name": "Wood St & 35th St",
+      "latitude": 41.830105,
+      "longitude": -87.670298,
+      "dpcapacity": 11,
+      "online_date": "4/14/15"
+    },
+    {
+      "id": 17,
+      "name": "Wood St & Division St",
+      "latitude": 41.90332,
+      "longitude": -87.67273,
+      "dpcapacity": 15,
+      "online_date": "6/20/13"
+    },
+    {
+      "id": 285,
+      "name": "Wood St & Grand Ave",
+      "latitude": 41.89113,
+      "longitude": -87.67203,
+      "dpcapacity": 15,
+      "online_date": "9/13/13"
+    },
+    {
+      "id": 61,
+      "name": "Wood St & Milwaukee Ave",
+      "latitude": 41.907655,
+      "longitude": -87.672552,
+      "dpcapacity": 15,
+      "online_date": "6/18/13"
+    },
+    {
+      "id": 317,
+      "name": "Wood St & Taylor St",
+      "latitude": 41.869154,
+      "longitude": -87.671045,
+      "dpcapacity": 23,
+      "online_date": "9/21/13"
+    },
+    {
+      "id": 248,
+      "name": "Woodlawn Ave & 55th St",
+      "latitude": 41.795264,
+      "longitude": -87.596471,
+      "dpcapacity": 19,
+      "online_date": "8/23/13"
+    },
+    {
+      "id": 569,
+      "name": "Woodlawn Ave & 75th St",
+      "latitude": 41.75916,
+      "longitude": -87.595751,
+      "dpcapacity": 15,
+      "online_date": "6/23/16"
+    },
+    {
+      "id": 413,
+      "name": "Woodlawn Ave & Lake Park Ave",
+      "latitude": 41.814093,
+      "longitude": -87.597005,
+      "dpcapacity": 15,
+      "online_date": "4/14/15"
+    },
+    {
+      "id": 396,
+      "name": "Yates Blvd & 75th St",
+      "latitude": 41.758768,
+      "longitude": -87.56644,
+      "dpcapacity": 11,
+      "online_date": "5/7/15"
+    },
+    {
+      "id": 596,
+      "name": "Benson Ave & Church St",
+      "latitude": 42.048214,
+      "longitude": -87.683485,
+      "dpcapacity": 15,
+      "online_date": "6/29/16"
+    },
+    {
+      "id": 601,
+      "name": "Central St Metra",
+      "latitude": 42.063598,
+      "longitude": -87.69873,
+      "dpcapacity": 15,
+      "online_date": "6/29/16"
+    },
+    {
+      "id": 597,
+      "name": "Chicago Ave & Washington St",
+      "latitude": 42.032562,
+      "longitude": -87.679101,
+      "dpcapacity": 15,
+      "online_date": "6/29/16"
+    },
+    {
+      "id": 600,
+      "name": "Dodge Ave & Church St",
+      "latitude": 42.048308,
+      "longitude": -87.698224,
+      "dpcapacity": 15,
+      "online_date": "6/29/16"
+    },
+    {
+      "id": 607,
+      "name": "Cuyler Ave & Augusta St",
+      "latitude": 41.898168,
+      "longitude": -87.783055,
+      "dpcapacity": 11,
+      "online_date": "6/30/16"
+    },
+    {
+      "id": 617,
+      "name": "East Ave & Garfield St",
+      "latitude": 41.871312,
+      "longitude": -87.788938,
+      "dpcapacity": 19,
+      "online_date": "6/27/16"
+    },
+    {
+      "id": 614,
+      "name": "East Ave & Madison St",
+      "latitude": 41.880113,
+      "longitude": -87.789247,
+      "dpcapacity": 15,
+      "online_date": "6/28/16"
+    },
+    {
+      "id": 609,
+      "name": "Forest Ave & Lake St",
+      "latitude": 41.88891,
+      "longitude": -87.800255,
+      "dpcapacity": 15,
+      "online_date": "6/30/16"
+    },
+    {
+      "id": 608,
+      "name": "Humphrey Ave & Ontario St",
+      "latitude": 41.890491,
+      "longitude": -87.776842,
+      "dpcapacity": 11,
+      "online_date": "6/30/16"
+    },
+    {
+      "id": 618,
+      "name": "Lombard Ave & Garfield St",
+      "latitude": 41.87055,
+      "longitude": -87.77919,
+      "dpcapacity": 19,
+      "online_date": "6/27/16"
+    },
+    {
+      "id": 615,
+      "name": "Lombard Ave & Madison St",
+      "latitude": 41.87981,
+      "longitude": -87.779425,
+      "dpcapacity": 15,
+      "online_date": "6/28/16"
+    },
+    {
+      "id": 610,
+      "name": "Marion St & South Blvd",
+      "latitude": 41.88681,
+      "longitude": -87.80287,
+      "dpcapacity": 19,
+      "online_date": "6/30/16"
+    },
+    {
+      "id": 616,
+      "name": "Oak Park Ave & Harrison St",
+      "latitude": 41.872987,
+      "longitude": -87.793945,
+      "dpcapacity": 19,
+      "online_date": "6/27/16"
+    },
+    {
+      "id": 611,
+      "name": "Oak Park Ave & South Blvd",
+      "latitude": 41.886923,
+      "longitude": -87.793899,
+      "dpcapacity": 19,
+      "online_date": "6/30/16"
+    },
+    {
+      "id": 613,
+      "name": "Wisconsin Ave & Madison St",
+      "latitude": 41.879837,
+      "longitude": -87.80224,
+      "dpcapacity": 11,
+      "online_date": "6/28/16"
+    }
+  ]
+}
