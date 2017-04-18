@@ -22,7 +22,8 @@ module.exports = {
       react: resolve('./node_modules/react'),
       immutable: resolve('./node_modules/immutable'),
       'gl-matrix': resolve('./node_modules/gl-matrix/dist/gl-matrix.js'),
-      'mapbox-gl$': resolve('./node_modules/mapbox-gl/dist/mapbox-gl.js')
+      'mapbox-gl$': resolve('./node_modules/mapbox-gl/dist/mapbox-gl.js'),
+      '../fonts': resolve('./node_modules/bootstrap/dist/fonts')
     }
   },
 
@@ -50,8 +51,13 @@ module.exports = {
       },
 
       {
-        test: /\.png$/,
-        loader: 'file-loader'
+        test: /\.csv$/,
+        loader: 'dsv-loader'
+      },
+
+      {
+        test: /\.(png|woff|woff2|eot|ttf|svg)$/,
+        loader: 'url-loader?limit=100000'
       }
     ]
 

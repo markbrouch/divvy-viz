@@ -1,2 +1,21 @@
 @import "cssrecipes-defaults";
 @import "normalize.css";
+@import "bootstrap";
+
+.InfoPane {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 20px;
+  width: 355px;
+  height: 100px;
+  background-color: white;
+}
+
+.InfoPane dt {
+  width: 65px;
+}
+
+.InfoPane dd {
+  margin-left: 85px;
+}
