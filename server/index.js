@@ -22,40 +22,6 @@ app.use(async function (ctx, next) {
   console.log(`${ctx.method} ${ctx.url} - ${ms}`);
 });
 
-app.use(Route.get('/data/:stationId', (ctx, stationId) => {
-  stationId = parseInt(stationId);
-
-  const reader = fs.createReadStream('./data/trips-data-2016-q3.csv');
-  const parser = csv.parse({
-    auto_parse: true,
-    auto_parse_date: true,
-    columns: true
-  });
-  const transformer = csv.transform(record => {
-    return record.from_station_id === stationId ? record : null;
-  });
-  const stream = new PassThrough();
-
-  ctx.body = stream;
-  ctx.type = 'text/event-stream';
-
-  ctx.req.on('close', ctx.res.end);
-  ctx.req.on('finish', ctx.res.end);
-  ctx.req.on('error', ctx.res.end);
-
-  reader.on('data', data => parser.write(data));
-  parser.on('readable', () => {
-    while (data = parser.read()) {
-      transformer.write(data);
-    }
-  });
-  transformer.on('readable', () => {
-    while (data = transformer.read()) {
-      stream.write(`data: ${JSON.stringify(data)}\n\n`);
-    }
-  });
-}));
-
 app.use(Route.get(`/api/trips/:stationId`, (ctx, stationId) => {
   stationId = parseInt(stationId);
 
