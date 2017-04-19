@@ -4,6 +4,10 @@
   "description": "Visualizations for Chicago Divvy bike system.",
   "main": "src/app.js",
   "license": "MIT",
+  "engines": {
+    "node": ">=7.6.0",
+    "npm": ">=4.1.2"
+  },
   "scripts": {
     "clean": "rimraf dist",
     "build": "npm run clean && webpack --progress",
