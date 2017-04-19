@@ -3,6 +3,7 @@ import {render} from 'react-dom';
 import MapGL from 'react-map-gl';
 import DeckGL, { IconLayer, ArcLayer } from 'deck.gl';
 import chroma from 'chroma-js';
+import values from 'lodash/values';
 
 import StationData from './station-data-2016-q3.csv';
 
@@ -86,7 +87,7 @@ class Root extends Component {
   render() {
     const {viewport, width, height, hovered = {}, selected = {}, tripsData = []} = this.state;
 
-    const stationData = Object.values(StationData);
+    const stationData = values(StationData);
     const getStationData = stationId => stationData.find(station => parseInt(station.id) === parseInt(stationId));
 
     const getColor = chroma.scale(['112F54', '71870E']).domain([1,10]);
