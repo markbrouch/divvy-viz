@@ -8,8 +8,11 @@
   right: 0;
   margin: 20px;
   width: 355px;
-  height: 100px;
   background-color: white;
+}
+
+.InfoPane dl {
+  margin: 0;
 }
 
 .InfoPane dt {

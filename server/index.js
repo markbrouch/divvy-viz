@@ -4,6 +4,7 @@ const fs = require('fs');
 const csv = require('csv');
 const Stringify = require('streaming-json-stringify');
 const { PassThrough } = require('stream');
+const JSONStream = require('JSONStream');
 
 const app = new Koa();
 
@@ -53,19 +54,19 @@ app.use(Route.get('/data/:stationId', (ctx, stationId) => {
       stream.write(`data: ${JSON.stringify(data)}\n\n`);
     }
   });
-
-  // fs.createReadStream('./data/trips-data-2016-q3.csv')
-  //   .pipe(csv.parse({
-  //     auto_parse: true,
-  //     auto_parse_date: true,
-  //     columns: true
-  //   }))
-  //   .pipe(csv.transform(record => {
-  //     return record.from_station_id === stationId ? record : null;
-  //     // return record;
-  //   }))
-  //   .pipe(Stringify())
-  //   .pipe(stream);
 }));
+
+app.use(Route.get(`/api/trips/:stationId`, (ctx, stationId) => {
+  stationId = parseInt(stationId);
+
+  const stream = JSONStream.stringify();
+
+  ctx.body = stream;
+  ctx.type = 'application/json';
+
+  fs.createReadStream(`./data/grouped-trips-data-2016-q3.json`)
+    .pipe(JSONStream.parse(`${stationId}`))
+    .pipe(stream);
+}))
 
 app.listen(8001);
