@@ -10,8 +10,8 @@ module.exports = {
   },
 
   output: {
-    path: resolve(__dirname, './dist/assets'),
-    publicPath: '/assets',
+    path: resolve(__dirname, './dist'),
+    publicPath: '/',
     filename: '[name].bundle.js'
   },
 
@@ -22,14 +22,18 @@ module.exports = {
       react: resolve('./node_modules/react'),
       immutable: resolve('./node_modules/immutable'),
       'gl-matrix': resolve('./node_modules/gl-matrix/dist/gl-matrix.js'),
-      'mapbox-gl$': resolve('./node_modules/mapbox-gl/dist/mapbox-gl.js'),
-      '../fonts': resolve('./node_modules/bootstrap/dist/fonts')
+      'mapbox-gl$': resolve('./node_modules/mapbox-gl/dist/mapbox-gl.js')
     }
   },
 
   module: {
 
     rules: [
+      {
+        test: /\.html$/,
+        loader: 'file-loader?name=[name].[ext]'
+      },
+
       {
         test: /\.js$/,
         loader: 'babel-loader',
@@ -43,6 +47,10 @@ module.exports = {
           {
             loader: 'css-loader',
             options: {
+              alias: {
+                '../fonts': resolve('./node_modules/bootstrap/dist/fonts')
+              },
+              localIdentName: '[path][name]__[local]--[hash:base64:5]',
               importLoaders: 1
             }
           },

@@ -4,10 +4,11 @@ import MapGL from 'react-map-gl';
 import DeckGL, { IconLayer, ArcLayer } from 'deck.gl';
 import chroma from 'chroma-js';
 
-import StationData from '../data/station-data-2016-q3.csv';
+import StationData from './station-data-2016-q3.csv';
 
+import index from './index.html';
 import style from './app.css';
-import DivvyIcon from '../images/divvy-icon.png';
+import DivvyIcon from './images/divvy-icon.png';
 
 const MAPBOX_TOKEN = process.env.MAPBOX_ACCESS_TOKEN;
 
