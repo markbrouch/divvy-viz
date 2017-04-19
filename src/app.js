@@ -15,8 +15,6 @@ if (!MAPBOX_TOKEN) {
   throw new Error('Please specify a valid mapbox token');
 }
 
-console.log(StationData)
-
 class Root extends Component {
 
   constructor(props) {
@@ -30,7 +28,7 @@ class Root extends Component {
         longitude: -87.6288953,
         zoom: 12,
         bearing: 0,
-        pitch: 0
+        pitch: 60
       }
     };
   }
@@ -55,7 +53,7 @@ class Root extends Component {
   }
 
   renderArcLayer(station) {
-    const { id } = station;
+    const id = parseInt(station.id);
 
     this.setState({
       tripsData: [],
@@ -85,10 +83,10 @@ class Root extends Component {
   }
 
   render() {
-
-    const {viewport, width, height, hovered = {}, selected = {}, tripsData = {}} = this.state;
+    const {viewport, width, height, hovered = {}, selected = {}, tripsData = []} = this.state;
 
     const stationData = Object.values(StationData);
+    const getStationData = stationId => stationData.find(station => parseInt(station.id) === parseInt(stationId));
 
     const getColor = chroma.scale(['112F54', '71870E']).domain([1,10]);
 
@@ -140,7 +138,7 @@ class Root extends Component {
           {...viewport}
           width={width}
           height={height}
-          layers={[ layer ]}
+          layers={[ stationsLayer, tripsLayer ]}
         />
 
         <div className="InfoPane panel panel-default">
