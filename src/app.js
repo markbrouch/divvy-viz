@@ -109,7 +109,7 @@ class Root extends Component {
       id: 'trips-layer',
       data: tripsData,
       fp64: true,
-      strokeWidth: 5,
+      strokeWidth: 3,
       getSourcePosition: d => {
         const fromStation = getStationData(d.from);
 
