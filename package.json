@@ -5,18 +5,23 @@
   "main": "src/app.js",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server --progress --hot --port 8000"
+    "start": "webpack-dev-server --progress --hot --port 8000",
+    "server": "node ./server"
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
     "cssrecipes-defaults": "^0.5.0",
+    "csv": "^1.1.1",
     "deck.gl": "^4.0.3",
     "immutable": "^3.8.1",
+    "koa": "^2.2.0",
+    "koa-route": "^3.2.0",
     "luma.gl": "^3.0.1",
     "normalize.css": "^6.0.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-map-gl": "^1.8.2"
+    "react-map-gl": "^1.8.2",
+    "streaming-json-stringify": "^3.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
