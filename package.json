@@ -1,6 +1,6 @@
 {
   "name": "divvy-viz",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Visualizations for Chicago Divvy bike system.",
   "main": "src/app.js",
   "license": "MIT",
