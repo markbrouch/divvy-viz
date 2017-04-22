@@ -11,6 +11,8 @@ import index from './index.html'
 import style from './app.css'
 import DivvyIcon from './images/divvy-icon.png'
 
+import { InfoPane } from './components/info-pane'
+
 const MAPBOX_TOKEN = process.env.MAPBOX_ACCESS_TOKEN
 
 if (!MAPBOX_TOKEN) {
@@ -149,25 +151,7 @@ class Root extends Component {
           height={height}
           layers={[stationsLayer, tripsLayer]}
         />
-
-        <div className="InfoPane panel panel-default">
-          <dl className="panel-body dl-horizontal">
-            <dt>Name</dt><dd>{hovered.name || selected.name}</dd>
-            <dt>Capacity</dt>
-            <dd>{hovered.dpcapacity || selected.dpcapacity}</dd>
-            <dt>Added</dt><dd>{hovered.online_date || selected.online_date}</dd>
-            {((!this.state.hovered && !!this.state.selected) ||
-              (this.state.hovered &&
-                this.state.selected &&
-                this.state.hovered.id === this.state.selected.id)) &&
-              <dt>Trips</dt>}
-            {((!this.state.hovered && !!this.state.selected) ||
-              (this.state.hovered &&
-                this.state.selected &&
-                this.state.hovered.id === this.state.selected.id)) &&
-              <dd>{selected.trips}</dd>}
-          </dl>
-        </div>
+        <InfoPane hovered={this.state.hovered} selected={this.state.selected} />
       </MapGL>
     )
   }
