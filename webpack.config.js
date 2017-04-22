@@ -30,7 +30,7 @@ module.exports = {
 
     rules: [
       {
-        test: /\.html$/,
+        test: /\.(png|html)$/,
         loader: 'file-loader?name=[name].[ext]'
       },
 
@@ -64,7 +64,7 @@ module.exports = {
       },
 
       {
-        test: /\.(png|woff|woff2|eot|ttf|svg)$/,
+        test: /\.(woff|woff2|eot|ttf|svg)$/,
         loader: 'url-loader?limit=100000'
       }
     ]
