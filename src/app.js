@@ -4,6 +4,7 @@ import MapGL from 'react-map-gl'
 import DeckGL, { IconLayer, ArcLayer } from 'deck.gl'
 import chroma from 'chroma-js'
 import values from 'lodash/values'
+import 'whatwg-fetch'
 
 import StationData from './station-data-2016-q3.csv'
 
