@@ -15,6 +15,7 @@
     "build": "npm run clean && npm run format && webpack --progress",
     "build:prod": "npm run clean && webpack -p",
     "start": "npm run build && npm run server",
+    "start:prod": "npm run build:prod && npm run server",
     "start:dev": "webpack-dev-server --progress --hot --port 8000",
     "server": "node ./server",
     "lint-staged": "lint-staged",

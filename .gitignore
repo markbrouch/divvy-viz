@@ -1,6 +1,9 @@
 # Dist
 dist
 
+# Env
+.env
+
 # Logs
 logs
 *.log
